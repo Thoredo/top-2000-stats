@@ -1,0 +1,2001 @@
+nr,Titel,Artiest,Jaar
+1,Bohemian rhapsody,Queen,1975
+2,Hotel California,Eagles,1977
+3,Child in time,Deep Purple,1972
+4,Stairway to heaven,Led Zeppelin,1972
+5,Paradise by the dashboardlight,Meat Loaf,1978
+6,November rain,Guns 'n Roses,1992
+7,House of the rising sun,Animals,1964
+8,Avond,Boudewijn de Groot,1997
+9,Old and wise,Alan Parsons Project,1982
+10,Angie,Rolling Stones,1973
+11,Brothers in arms,Dire Straits,1989
+12,Riders on the storm,Doors,1971
+13,Imagine,John Lennon,1971
+14,Sympathy for the devil,Rolling Stones,1973
+15,Sultans of swing,Dire Straits,1978
+16,Nothing else matters,Metallica,1992
+17,Private investigations,Dire Straits,1982
+18,Hey Jude,Beatles,1968
+19,Whole lotta Rosie,AC/DC,1978
+20,Wish you were here,Pink Floyd,1975
+21,School,Supertramp,1975
+22,A whiter shade of pale,Procol Harum,1967
+23,Let it be,Beatles,1970
+24,Angels,Robbie Williams,1997
+25,Goodnight Saigon,Billy Joel,1983
+26,Shine on you crazy diamond,Pink Floyd,1975
+27,Radar love,Golden Earring,1973
+28,Nights in white satin,Moody Blues,1968
+29,The last resort,Eagles,1976
+30,The river,Bruce Springsteen,1981
+31,Testament,Boudewijn de Groot,1966
+32,Bridge over troubled water,Simon & Garfunkel,1970
+33,Losing my religion,REM,1991
+34,Yesterday,Beatles,1965
+35,Halo of flies,Alice Cooper,1973
+36,Music,John Miles,1976
+37,Sunday bloody Sunday,U2,1985
+38,Stil in mij,Van Dik Hout,1994
+39,Another brick in the wall,Pink Floyd,1979
+40,With or without you,U2,1987
+41,Dreadlock holiday,10CC,1978
+42,Paranoid,Black Sabbath,1970
+43,Tears in heaven,Eric Clapton,1992
+44,The rose,Bette Midler,1980
+45,Who wants to live forever,Queen,1986
+46,Dancing queen,Abba,1976
+47,Verdronken vlinder,Boudewijn de Groot,1970
+48,Het dorp,Wim Sonneveld,1974
+49,Oude Maasweg,Amazing Stroopwafels,1982
+50,I'm not in love,10CC,1975
+51,Pastorale,Liesbeth List & Ramses Shaffy,1969
+52,Africa,Toto,1982
+53,I put a spell on you,Creedence Clearwater Revival,1972
+54,Paint it black,Rolling Stones,1966
+55,The day before you came,Abba,1982
+56,In the air tonight,Phil Collins,1981
+57,Summer of '69,Bryan Adams,1990
+58,Everybody hurts,REM,1992
+59,Over de muur,Klein Orkest,1984
+60,Piano man,Billy Joel,1974
+61,A forest,Cure,1980
+62,Liefs uit Londen,Blof,1998
+63,The year of the cat,Al Stewart,1977
+64,Overcome,Live,2001
+65,Papa,Stef Bos,1991
+66,Kayleigh,Marillion,1985
+67,Smoke on the water,Deep Purple,1973
+68,Forever young,Alphaville,1984
+69,Go your own way,Fleetwood Mac,1977
+70,Welterusten meneer de president,Boudewijn de Groot,1966
+71,Heroes,David Bowie,1977
+72,Worn down piano,Mark & Clark Band,1977
+73,The unforgettable fire,U2,1985
+74,Niet of nooit geweest,Acda & De Munnik,1998
+75,No woman no cry,Bob Marley & The Wailers,1975
+76,The sounds of silence,Simon & Garfunkel,1966
+77,The winner takes it all,Abba,1980
+78,De vlieger,Andre Hazes,1977
+79,Belfast child,Simple Minds,1989
+80,Mr Blue Sky,Electric Light Orchestra,1978
+81,(I can't get no) Satisfaction,Rolling Stones,1965
+82,One,U2,1991
+83,Hurricane,Bob Dylan,1976
+84,Window of my eyes,Cuby & The Blizzards,1968
+85,Good vibrations,Beach Boys,1966
+86,Suspicious minds,Elvis Presley,1969
+87,Like a hurricane,Neil Young,1976
+88,Morning has broken,Cat Stevens,1972
+89,Eagle,Abba,1978
+90,Sebastian,Cockey Rebel,1973
+91,Aan de kust,Blof,1995
+92,Als ze er niet is,De Dijk,1994
+93,Whole lotta love,Led Zeppelin,1969
+94,Jeanny,Falco,1986
+95,Oerend hard,Normaal,1977
+96,Light my fire,Doors,1967
+97,Zelfs je naam is mooi,Henk Westbroek,1998
+98,When the lady smiles,Golden Earring,1984
+99,Fragile,Sting,1977
+100,The load out/Stay,Jackson Browne,1977
+101,Ne me quitte pas,Jacques Brel,1959
+102,The end,Doors,1967
+103,Dansen aan zee,Blof,2000
+104,Somebody to love,Queen,1976
+105,Have I told you lately,Van Morrison,1989
+106,Desperado,Eagles,1973
+107,Harder dan ik hebben kan,Blof,1999
+108,Eloise,Barry Ryan,1968
+109,A horse with no name,America,1972
+110,Voor haar,Frans Halsema,1977
+111,Love of my life,Queen,1975
+112,In the ghetto,Elvis Presley,1969
+113,Mama,Genesis,1983
+114,Where the streets have no name,U2,1987
+115,Ruthless queen,Kayak,1979
+116,Wuthering heights,Kate Bush,1978
+117,God only knows,Beach Boys,1966
+118,I still haven't found what I'm looking for,U2,1987
+119,Kronenburg Park,Frank Boeijen Groep,1985
+120,Born to run,Bruce Springsteen,1974
+121,I want to break free,Queen,1984
+122,A day in a life,Beatles,1967
+123,California dreamin',Mama's & Papa's,1966
+124,Gimme all your lovin',ZZ Top,1984
+125,White rabbit,Jefferson Airplane,1970
+126,Nothing compares 2 u,Sinead O'Connor,1990
+127,Dust in the wind,Kansas,1978
+128,(Everything I do) I do it for you,Bryan Adams,1991
+129,Perfect day,Lou Reed,1972
+130,Teach your children,Crosby Stills Nash & Young,1970
+131,Troy,Sinead O'Connor,1987
+132,The turn of a friendly card,Alan Parsons Project,1980
+133,Du,Peter Maffay,1971
+134,Knocking on heaven's door,Guns 'n Roses,1992
+135,Space oddity,David Bowie,1969
+136,Proud Mary,Ike & Tina Turner,1971
+137,Bright eyes,Art Garfunkel,1973
+138,Easy livin',Uriah Heep,1973
+139,I would stay,Krezip,2000
+140,Wind of change,Scorpions,1990
+141,Jimmy,Boudewijn de Groot,1974
+142,Margherita,Marco Borsato,1996
+143,New Year's day,U2,1983
+144,99 Luftballons,Nena,1983
+145,Take on me,A-Ha,1985
+146,All along the watchtower,Jimi Hendrix Experience,1968
+147,Mooie dag,Blof,2002
+148,In a gadda da vida,Iron Butterfly,1970
+149,Don't you (forget about me),Simple Minds,1985
+150,More than a feeling,Boston,1977
+151,Limburg,Rowwen Heze,1996
+152,Vienna,Ultravox,1981
+153,Heart of gold,Neil Young,1972
+154,Question,Moody Blues,1970
+155,Killer queen,Queen,1974
+156,School's out,Alice Cooper,1972
+157,Don't stop me now,Queen,1979
+158,Mag het licht uit,De Dijk,1987
+159,Against all odds,Phil Collins,1984
+160,Purple rain,Prince & The Revolution,1984
+161,I want you,Elvis Costello,1986
+162,Streets of Philadelphia,Bruce Springsteen,1994
+163,Unchained melody,Righteous Brothers,1965
+164,Walk of life,Dire Straits,1985
+165,Owner of a lonely heart,Yes,1983
+166,Another day in paradise,Phil Collins,1989
+167,Hey Joe,Jimi Hendrix Experience,1967
+168,How you gonna see me now,Alice Cooper,1979
+169,You can't always get what you want,Rolling Stones,1969
+170,Saturday night,Herman Brood & His Wild Romance,1978
+171,Bloedend hart,De Dijk,1982
+172,Roll over lay down,Status Quo,1975
+173,Our house,Crosby Stills Nash & Young,1970
+174,Twilight zone,Golden Earring,1982
+175,Layla,Eric Clapton,1992
+176,Always,Bon Jovi,1994
+177,The lady in red,Chris de Burgh,1986
+178,Brown eyed girl,Van Morrison,1967
+179,Gimme shelter,Rolling Stones,1969
+180,Wonderful tonight,Eric Clapton,1988
+181,Lola,Kinks,1970
+182,Pride (in the name of love),U2,1984
+183,Who'll stop the rain,Creedence Clearwater Revival,1970
+184,I was made for loving you,Kiss,1979
+185,Als het vuur gedoofd is,Acda & De Munnik,1997
+186,Barcelona,Freddie Mercury & Montserrat Caballe,1987
+187,Jessica,Allman Brothers Band,1976
+188,Samba pa ti,Santana,1973
+189,Go like Elijah,Chi Coltrane,1973
+190,Conquest of paradise,Vangelis,1995
+191,Is she really going out with him,Joe Jackson,1979
+192,Zeg me dat het niet zo is,Frank Boeijen,1989
+193,Woman in love,Barbra Streisand,1980
+194,Sara,Fleetwood Mac,1980
+195,The long and winding road,Beatles,1970
+196,Me and Bobby McGee,Janis Joplin,1971
+197,Solsbury hill,Peter Gabriel,1977
+198,Money for nothing,Dire Straits,1985
+199,Fool on the hill,Beatles,1967
+200,Like a rolling stone,Bob Dylan,1965
+201,Eye in the sky,Alan Parsons Project,1982
+202,The final countdown,Europe,1986
+203,Romeo and Juliet,Dire Straits,1981
+204,Follow you follow me,Genesis,1978
+205,She's the one,Robbie Williams,1999
+206,Hocus pocus,Focus,1971
+207,Strawberry fields forever,Beatles,1967
+208,Radio Ga Ga,Queen,1978
+209,The man with the child in his eyes,Kate Bush,1978
+210,Luna,Alessandro Safina,2000
+211,Blowing in the wind,Bob Dylan,1963
+212,De kapitein 2,Acda & De Munnik,2000
+213,Don't give up,Peter Gabriel & Kate Bush,1986
+214,Born in the USA,Bruce Springsteen,1985
+215,Total eclipse of the heart,Bonnie Tyler,1983
+216,We will rock you,Queen,1994
+217,L.A. woman,Doors,1971
+218,If you leave me now,Chicago,1976
+219,An Englishman in New York,Sting,1988
+220,Dancing in the dark,Bruce Springsteen,1984
+221,The boxer,Simon & Garfunkel,1969
+222,Kiss from a rose,Seal,1984
+223,Albatross,Fleetwood Mac,1969
+224,Still got the blues,Gary Moore,1980
+225,Graceland,Paul Simon,1986
+226,See me feel me,Who,1970
+227,Massachusetts,Bee Gees,1967
+228,While my guitar gently weeps,Beatles,1968
+229,You,Ten Sharp,1991
+230,Money,Pink Floyd,1973
+231,Locomotion breath,Jethro Tull,1972
+232,Running with the devil,Van Halen,1980
+233,World of hurt,Ilse DeLange,1998
+234,I'd do anything for love (but I won't do that),Meat Loaf,1993
+235,Like the way I do,Melissa Etheridge,1989
+236,She,Charles Aznavour,1974
+237,Down under,Men At Work,1982
+238,With a little help from my friends,Joe Cocker,1968
+239,The dock of the bay,Otis Redding,1968
+240,Sloop John 'B',Beach Boys,1966
+241,Vincent,Don McLean,1972
+242,Still loving you,Scorpions,1987
+243,She's always a woman,Billy Joel,1978
+244,Eternal flame,Bangles,1989
+245,Just a little bit of peace in my heart,Golden Earring,1968
+246,You ain't seen nothing yet,Bachman Turner Overdrive,1974
+247,Real man,Joe Jackson,1982
+248,Thank you for the music,Abba,1978
+249,So long,Fischer Z,1980
+250,In the Dutch mountains,Nits,1987
+251,Blackbird,Beatles,1969
+252,The logical song,Supertramp,1979
+253,Everybody needs somebody,Blues Brothers,1989
+254,Band on the run,Wings,1974
+255,Jump,Van Halen,1984
+256,Living on a prayer,Bon Jovi,1986
+257,Dansen op de vulkaan,De Dijk,1987
+258,Apache,Shadows,1960
+259,Every breath you take,Police,1983
+260,How deep is your love,Bee Gees,1977
+261,Bloasmuziek,Gé Reinders,1999
+262,Another 45 miles,Golden Earring,1969
+263,Geen kind meer,Karin Bloemen,1996
+264,I'm going home,Ten Years After,1971
+265,Fields of gold,Sting,1993
+266,Need your love so bad,Fleetwood Mac,1968
+267,We are the champions,Queen,1977
+268,Denis,Blondie,1978
+269,One of these days,Pink Floyd,1971
+270,Sweet home Alabama,Lynyrd Skynyrd,1974
+271,Give up your guns,Buoys,1972
+272,Daar gaat ze,Clouseau,1990
+273,Can't get it out of my head,Electric Light Orchestra,1975
+274,I am .. I said,Neil Diamond,1971
+275,Here comes the sun,Beatles,1969
+276,Suzie Q,Creedence Clearwater Revival,1971
+277,Blauw,Scene,1991
+278,Always on my mind,Elvis Presley,97?
+279,Words,Bee Gees,1968
+280,Tom traubert's blues,Tom Waits,1974
+281,Stop loving you,Toto,1988
+282,One way wind,Cats,1971
+283,I want to know what love is,Foreigner,1984
+284,Staying alive,Bee Gees,1978
+285,Tunnel of love,Dire Straits,1980
+286,Get back,Beatles,1969
+287,The Wall Street shuffle,10CC,1974
+288,I'm not so tough,Ilse DeLange,1998
+289,You are so beautiful,Joe Cocker,1990
+290,The best,Tina Turner,1989
+291,Storm and thunder,Earth & Fire,1971
+292,Het land van Maas en Waal,Boudewijn de Groot,1966
+293,White room,Cream,1968
+294,Papa was a rolling stone,Temptations,1972
+295,Zing vecht huil bid lach werk en bewonder,Ramses Shaffy,1971
+296,Lucky man,Emerson Lake & Palmer,1971
+297,Almost cut my hair,Crosby Stills Nash & Young,1971
+298,On the border,Al Stewart,1977
+299,Walk on the wild side,Lou Reed,1973
+300,Alive and kicking,Simple Minds,1985
+301,Think,Aretha Franklin,1968
+302,Bad moon rising,Creedence Clearwater Revival,1969
+303,I just can't help believing,Elvis Presley,1972
+304,Everytime I think of you,Babys,1979
+305,Fantasy,Earth Wind & Fire,1979
+306,Halt mich,Herbert Gronemeyer,1988
+307,Peggy Sue,Buddy Holly,1957
+308,Under pressure,Queen & David Bowie,1982
+309,Roxanne,Police,1979
+310,Een meisje van 16,Boudewijn de Groot,1965
+311,Nescio,Nits,1983
+312,Non je ne regrette rien,Edith Piaf,1961
+313,She,Elvis Costello,1999
+314,Respect,Aretha Franklin,1967
+315,Billie Jean,Michael Jackson,1983
+316,Tubular bells,Mike Oldfield,1974
+317,Roundabout,Yes,1972
+318,The wind cries Mary,Jimi Hendrix Experience,1967
+319,Holding back the years,Simply Red,1985
+320,Suzanne,Leonard Cohen,1968
+321,What's going on,Marvin Gaye,1971
+322,Private dancer,Tina Turner,1984
+323,Wild horses,Rolling Stones,1971
+324,Foto van vroeger,Rob de Nijs,1980
+325,Binnen zonder kloppen,De Dijk,1985
+326,My sweet Lord,George Harrison,1970
+327,Overture from Tommy,Who,1970
+328,Norwegian wood,Beatles,1965
+329,Driver's seat,Sniff 'n The Tears,1980
+330,Your song,Elton John,1971
+331,Foolish games,Jewel,1997
+332,Layla,Derek & The Dominos,1971
+333,Vous permettez monsieur,Adamo,1964
+334,MacArthur Park,Richard Harris,1968
+335,One of these nights,Eagles,1975
+336,Meester Prikkebeen,Boudewijn de Groot & Eliie Nieman,1967
+337,Russians,Sting,1985
+338,32 jaar (sinds 1 dag of 2),Doe Maar,1981
+339,My generation,Who,1965
+340,Thriller,Michael Jackson,1983
+341,Peter Gunn,Emerson Lake & Palmer,1980
+342,Binnen,Marco Borsato,1999
+343,Wereld zonder jou,Marco Borsato & Trijntje Oosterhuis,1997
+344,Such a shame,Talk Talk,1984
+345,Summertime,Brainbox,1969
+346,Sailing,Rod Stewart,1975
+347,Get ready,Rare Earth,1970
+348,Maid of Orleans,Orchestral Manoeuvres In The Dark,1982
+349,Mr Tambourine man,Byrds,1965
+350,The whole of the moon,Waterboys,1986
+351,Wer bisto,Twarres,2000
+352,Father and son,Cat Stevens,1971
+353,Nothing rhymed,Gilbert O'Sullivan,1971
+354,My heart will go on,Celine Dion,1998
+355,Heaven,Bryan Adams,1985
+356,Michelle,Beatles,1966
+357,Knocking on heaven's door,Bob Dylan,1973
+358,Comfortably numb,Pink Floyd,1979
+359,The boys of summer,Don Henley,1985
+360,Have a little faith in me,John Hiatt,1989
+361,She flies on strange wings,Golden Earring,1971
+362,Liefde van later,Herman van Veen,1969
+363,Message to my girl,Split Enz,1984
+364,Con te partiro,Andrea Bocelli,1996
+365,Have you ever seen the rain,Creedence Clearwater Revival,1971
+366,Don't answer me,Alan Parsons Project,1984
+367,My boy,Elvis Presley,1975
+368,Mijn vlakke land,Jacques Brel,1965
+369,Honky tonk woman,Rolling Stones,1969
+370,Black magic woman,Santana,1970
+371,Through the barricades,Spandau Ballet,1986
+372,The life I live,Q65,1966
+373,Moonlight shadow,Mike Oldfield,1983
+374,Ik kan het niet alleen,De Dijk,1989
+375,Ruby Tuesday,Rolling Stones,1967
+376,Whiskey in the jar,Thin Lizzy,1973
+377,Eleanor rigby,Beatles,1966
+378,Eye of the tiger,Survivor,1982
+379,Song of the marching children,Earth & Fire,1971
+380,You're the first the last my everything,Barry White,1974
+381,Hold the line,Toto,1979
+382,Down man,Brainbox,1969
+383,Moondance,Van Morrison,1970
+384,Musica e,Eros Ramazzotti,1989
+385,She's not there,Santana,1978
+386,Banger hart,Rob de Nijs,1996
+387,You're so vain,Carly Simon,1973
+388,Land of confusion,Genesis,1986
+389,Help,Beatles,1965
+390,Gloria,Them,1967
+391,Old man,Neil Young,1972
+392,Take five,Dave Brubeck Quartet,1962
+393,Mull of Kintyre,Wings,1977
+394,Fast car,Tracey Chapman,1988
+395,It's all over now,Rolling Stones,1964
+396,Nikita,Elton John,1985
+397,Won't get fooled again,Who,1971
+398,River deep mointain high,Ike & Tina Turner,1966
+399,Rain and tears,Aphrodite's Child,1968
+400,Nergens goed voor,Dijk,1989
+401,Dreamer,Supertramp,1974
+402,San Francisco,Scott McKenzie,1967
+403,In a lifetime,Clannad & Bono,1986
+404,Golden brown,Stranglers,1982
+405,In nije dei,Kast,1997
+406,I'm on fire,Bruce Springsteen,1985
+407,Black night,Deep Purple,1970
+408,Memory,Barbra Streisand,1977
+409,Give a little bit,Supertramp,1977
+410,Onderweg,Abel,2000
+411,Appleknocker's flophouse,Cuby & The Blizzards,1969
+412,Keep on loving you,REO Speedwagon,1981
+413,Why,Annie Lennox,1992
+414,Jumpin' Jack flash,Rolling Stones,1968
+415,Ren Lenny ren,Acda & De Munnik,2002
+416,I have a dream,Abba,1979
+417,Mandy,Barry Manilow,1974
+418,Down down,Status Quo,1975
+419,Pinball wizard,Who,1969
+420,Waarom nou jij,Marco Borsato,1994
+421,Oh well (part 1),Fleetwood Mac,1969
+422,My way,Frank Sinatra,1968
+423,In the year 2525,Zager & Evans,1969
+424,Candle in the wind,Elton John,1997
+425,Love hurts,Nazareth,1974
+426,Happy new year,Abba,1980
+427,Just like a woman,Bob Dylan,1966
+428,Het werd zomer,Rob de Nijs,1977
+429,Chan chan,Buena Vista Social Club,1997
+430,Spicks and specks,Bee Gees,1967
+431,Alles geprobeerd,Het Goede Doel,1986
+432,Little green bag,George Baker Selection,1969
+433,What a wonderful world,Louis Armstrong,1968
+434,Brown sugar,Rolling Stones,1971
+435,Beautiful noise,Neil Diamond,1976
+436,Suzanne,Herman van Veen,1969
+437,Leningrad,Billy Joel,1989
+438,Another one bites the dust,Queen,1980
+439,25 or 6 to 4,Chicago,1970
+440,Lady d'Arbanville,Cat Stevens,1970
+441,Only the lonely,Roy Orbison,1960
+442,Ben ik te min,Armand,1967
+443,You took the words right out of my mouth,Meat Loaf,1979
+444,Rosanna,Toto,1982
+445,Tinseltown in the rain,Blue Nile,1984
+446,Sgt Peppers lonely hearts club band,Beatles,1967
+447,Last Christmas,Wham,1984
+448,Tears in the morning,Beach Boys,1970
+449,Take me home coutry roads,John Denver,1971
+450,Like a prayer,Madonna,1989
+451,Something,Beatles,1969
+452,Laat me,Ramses Shaffy,1978
+453,To make my life beautiful,Alex Harvey,1972
+454,Eve of destruction,Barry McGuire,1965
+455,What it is,Mark Knopfler,2000
+456,New kid in town,Eagles,1977
+457,Theme from Harry's Game,Clannad,1983
+458,Il volo,Zucchero Fornaciari,1996
+459,Born to be wild,Steppenwolf,1968
+460,Ramona,Blue Diamonds,1960
+461,Ik heb je lief,Paul de Leeuw,1997
+462,Bestel maar,Rowwen Heze,1991
+463,Chiquitita,Abba,1979
+464,It must have been love,Roxette,1990
+465,Dromen zijn bedrog,Marco Borsato,1994
+466,Jailhouse rock,Elvis Presley,1957
+467,Heaven must be missing an angel,Tavares,1976
+468,The one I love,REM,1987
+469,I will follow,U2,1982
+470,Radio,Corrs,2000
+471,My hometown,Bruce Springsteen,1986
+472,Biko,Peter Gabriel,1986
+473,So long Marianne,Leonard Cohen,1967
+474,Don't dream it's over,Crowded House,1987
+475,Blue Monday,New Order,1983
+476,I'm outta love,Anastacia,2000
+477,Orinoco flow,Enya,1988
+478,One,Metallica,1994
+479,Whatever you want,Status Quo,1979
+480,Hello,Lionel Richie,1984
+481,Love is all,Roger Glover & Guests,1975
+482,Blueberry Hill,Fats Domino,1957
+483,Drive,REM,1992
+484,Into temptation,Crowded House,1989
+485,Vivo per lei,Andrea Bocelli & Gerardina Trovato,1996
+486,Iedereen is van de wereld,Scene,1991
+487,You've got a friend,Carole King,1971
+488,In dreams,Roy Orbison,1963
+489,Sign of the times,Prince,1987
+490,Ik leef niet meer voor jou,Marco Borsato,1995
+491,Purple haze,Jimi Hendrix Experience,1967
+492,Speeltuin,Marco Borsato,1998
+493,Scarlet ribbons,Cats,1969
+494,Four seasons in one day,Crowded House,1992
+495,Message in a bottle,Police,1979
+496,Tombe la neige,Adamo,1964
+497,Fox on the run,Sweet,1975
+498,Max,Paolo Conte,1988
+499,Pretty woman,Roy Orbison,1964
+500,Two out of three ain't bad,Meat Loaf,1977
+501,Crazy,Seal,1991
+502,Penny Lane,Beatles,1967
+503,More than words,Extreme,1991
+504,I started a joke,Bee Gees,1969
+505,The air that I breathe,Hollies,1974
+506,Tell him,Barbra Streisand & Celine Dion,1997
+507,Donna,10CC,1973
+508,Fernando,Abba,1976
+509,Let love rule,Lenny Kravitz,1989
+510,Sylvia's mother,Dr Hook,1972
+511,Rendez-vous 6:02,UK,1979
+512,Aquarius,5th Dimension,1969
+513,Lea,Cats,1968
+514,In my life,Beatles,1965
+515,Be my number two,Joe Jackson,1982
+516,7 seconds,Youssou N'Dour & Neneh Cherry,1994
+517,Careless whisper,George Michael,1984
+518,Far far away,Slade,1974
+519,Too much love will kill you,Brian May,1992
+520,De waarheid,Marco Borsato,1997
+521,Ziggy Stardust,David Bowie,1972
+522,Make me smile,Steve Harley & Cockney Rebel,1975
+523,Lyin' eyes,Eagles,1975
+524,Lust for life,Iggy Pop,1977
+525,La comparsa,ZZ & De Maskers,1964
+526,You never walk alone,Gerry & The Pacemakers,1963
+527,Vluchten kan niet meer,Frans Halsema & Jenny Arean,1977
+528,Can't help falling in love,Elvis Presley,1961
+529,Crazy little thing called love,Queen,1979
+530,American pie,Don McLean,1972
+531,Listen to the music,Doobie Brothers,1972
+532,Baker Street,Gerry Rafferty,1978
+533,Guitar man,Bread,1972
+534,Never tear us apart,Inxs,1988
+535,Weather with you,Crowded House,1992
+536,One of us,Abba,1981
+537,I will always love you,Whitney Houston,1993
+538,As tears go by,Rolling Stones,1966
+539,Mrs Robinson,Simon & Garfunkel,1968
+540,Love me tender,Elvis Presley,1956
+541,Breakfast in America,Supertramp,1979
+542,Josephine,Chris Rea,1985
+543,Against the wind,Bob Seger,1980
+544,Lonely days,Bee Gees,1970
+545,All you need is love,Beatles,1967
+546,Little red rooster,Rolling Stones,1965
+547,Summertime,Billie Holliday,1936
+548,Beautiful people,Melanie,1969
+549,The free electric band,Albert Hammond,1973
+550,YMCA,Village People,1978
+551,Drops of jupiter,Train,2002
+552,Als de rook om je hoofd is verdwenen,Boudewijn de Groot,1972
+553,Ballroom blitz,Sweet,1973
+554,I´m Mandy fly me,10CC,1991
+555,Tip van de sluier,Boudewijn de Groot,1980
+556,Wonderful world,Sam Cooke,1960
+557,Jesus to a child,George Michael,1996
+558,It's now or never,Elvis Presley,1960
+559,Seasons,Earth & Fire,1970
+560,Celluloid heroes,Kinks,1973
+561,The power of love,Frankie Goes To Hollywood,1984
+562,Tequila sunrise,Eagles,1973
+563,When doves cry,Prince,1984
+564,Je veux de l'amour,Raymond van het Groenewoud,1980
+565,Avalon,Roxy Music,1982
+566,Do it again,Steely Dan,1972
+567,Waiting on a friend,Rolling Stones,1981
+568,Expecting to fly,Buffalo Springfield,1967
+569,Proud Mary,Creedence Clearwater Revival,1969
+570,Once in a lifetime,Talking Heads,1981
+571,He ain't heavy he's my brother,Hollies,1969
+572,Een beetje verliefd,Andre Hazes,1981
+573,Nathalie,Gilbert Becaud,1964
+574,Elected,Alice Cooper,1972
+575,Wild rover,Dubliners,1964
+576,Carry on,Crosby Stills Nash & Young,1970
+577,Anne,Herman van Veen,1986
+578,She's leaving home,Beatles,1967
+579,Family tree,Venice,1999
+580,That'll be the day,Buddy Holly,1957
+581,Emma,Hot Chocolate,1974
+582,Non non rien n'a change,Poppys,1971
+583,Sylvia,Focus,1972
+584,A kind of magic,Queen,1986
+585,Autobahn,Kraftwerk,1975
+586,Red red wine,UB 40,1983
+587,Toutes les garcons et les filles,Francoise Hardy,1963
+588,Sledgehammer,Peter Gabriel,1986
+589,She was naked,Supersister,1970
+590,Love is like oxygen,Sweet,1978
+591,Mijn gebed,D C Lewis,1970
+592,Tonight,Tina Turner & David Bowie,1988
+593,Hijo de la luna,Mecano,1990
+594,Perhaps love,John Denver & Placido Domingo,1981
+595,Stirr it up,Bob Marley & The Wailers,1979
+596,House for sale,Lucifer,1975
+597,Broken wings,Mr Mister,1986
+598,Tuesday afternoon,Moody Blues,1968
+599,Een wonderkind van 50,Boudewijn de Groot,1998
+600,In the mood,Glenn Miller Orchestra,1940
+601,Duet,Brigitte Kaandorp & Herman Finkers,1990
+602,I'm the walrus,Beatles,1964
+603,Cambodia,Kim Wilde,1981
+604,Back home,Golden Earring,1970
+605,Waterloo,Abba,1974
+606,I heard it through the grapevine,Creedence Clearwater Revival,1973
+607,The road ahead,City To City,1999
+608,It's five o'clock,Aphrodite's Child,1970
+609,Babe,Styx,1980
+610,One step beyond,Madness,1979
+611,Smalltown boy,Bronski Beat,1984
+612,Do they know it's Christmas,Band Aid,1984
+613,Fool to cry,Rolling Stones,1976
+614,Vlieg met me mee,Paul de Leeuw,1992
+615,Earth song,Michael Jackson,1995
+616,Nights on Broadway,Bee Gees,1975
+617,Rhiannon,Fleetwood Mac,1976
+618,Belgie,Het Goede Doel,1982
+619,A boy named Sue,Johnny Cash,1969
+620,Bring it on home to me,Animals,1965
+621,I've seen all good people,Yes,1971
+622,Kingston town,UB 40,1990
+623,Once upon a time in the West,Ennio Morricone,1968 (76)
+624,The reflex,Duran Duran,1984
+625,Hair,Zen,1969
+626,Black Betty,Ram Jam,1978
+627,Baggy trousers,Madness,1980
+628,Stay with me till the morning,New London Chorale & Vicky Brown,1993
+629,Venus,Shocking Blue,1969
+630,Love her madly,Doors,1971
+631,Dancin' fool,Frank Zappa,1979
+632,How can we hang on to a dream,Tim Hardin,1967
+633,Dynamite,Mud,1974
+634,She's a rainbow,Rolling Stones,1967
+635,It's a long way there,Little River Band,1976
+636,You've got a friend,James Taylor,1971
+637,Slippery people,Talking Heads,1985
+638,Working class hero,John Lennon,1971
+639,Circle of life,Elton John,1994
+640,Hello Mary Lou,Ricky Nelson,1961
+641,Roof garden,Al Jarreau,1982
+642,The girl from Ipanema,Astrud Gilberto,1964
+643,Every little thing she does is magic,Police,1981
+644,Time in a bottle,Jim Croce,1972
+645,Dodenrit,Drs P,1974
+646,Isn't it time,Babys,1977
+647,Annie's song,John Denver,1976
+648,Big log,Robert Plant,1981
+649,I won't let you down,PHD,1981
+650,Terug naar de kust,Maggie MacNeal,1976
+651,Black velvet,Alannah Myles,1989
+652,Top of the world,Carpenters,1973
+653,Block buster,Sweet,1973
+654,Easy lover,Phil Collins & Philip Bailey,1985
+655,Sadeness,Enigma,1990
+656,See Emily play,Pink Floyd,1967
+657,Het is een nacht,Guus Meeuwis & Vagant,1995
+658,Me and Mrs Jones,Billy Paul,1973
+659,Son of a preacher man,Dusty Springfield,1968
+660,Rock around the clock,Bill Haley & His Comets,1956
+661,Sex machine,James Brown,1970
+662,Take it easy,Eagles,1972
+663,If,Bread,1971
+664,You've lost that lovin' feelin',Righteous Brothers,1965
+665,Annabel,Hans de Booy,1983
+666,Une belle histoire,Michel Fugain,1972
+667,The way it is,Bruce Hornsby & The Range,1986
+668,Blinded by the light,Manfred Mann's Earth Band,1976
+669,Three steps to heaven,Eddie Cochran,1960
+670,Woman from Tokyo,Deep Purple,1972
+671,Nightboat to Cairo,Madness,1980
+672,You're still the one,Shania Twain,1998
+673,Mamma mia,Abba,1975
+674,El condor pasa,Simon & Garfunkel,1970
+675,Voir un ami pleurer,Jacques Brel,1961
+676,Man I feel like a woman,Shania Twain,1998
+677,Ashes to ashes,David Bowie,1980
+678,Don't forget to remember,Bee Gees,1969
+679,Calypso,John Denver,1975
+680,It's my life,Talk Talk,1984
+681,Bicycle race,Queen,1978
+682,Ring of fire,Johnny Cash,1972
+683,Zeven dagen lang,Bots,1976
+684,Downtown,Petula Clark,1964
+685,Relax,Frankie Goes To Hollywood,1984
+686,Guilty,Barbra Streisand & Barry Gibb,1980
+687,That ole devil called love,Alison Moyet,1985
+688,(I don't wanna die in an) Air disaster,Albert Hammond,1974
+689,Mr Blue,Rene Klijn,1993
+690,Ben,Michael Jackson,1972
+691,Touch me,Doors,1968
+692,So lonely,Police,1979
+693,Vriendschap,Het Goede Doel,1983
+694,Love is all around,Wet Wet Wet,1994
+695,Hurts to be in love,Gino Vannelli,1985
+696,Starlight dancer,Kayak,1977
+697,Marian,Cats,1969
+698,To my father's house,Les Humphries Singers,1970
+699,The times they are changing,Bob Dylan,1965
+700,You're my best friend,Queen,1976
+701,Save a prayer,Duran Duran,1985
+702,Mississippy,Pussycat,1975
+703,Room to move,John Mayall,1970
+704,Una casa portugesa,Amalia Rodriguez,1956
+705,The first time ever I saw your face,Roberta Flack,1972
+706,Knowing me knowing you,Abba,1977
+707,You do something to me,Paul Weller,1995
+708,Mercedes Benz,Janis Joplin,1971
+709,Here there and everywhere,Beatles,1966
+710,Eve of the war,Jeff Wayne,1978
+711,Why tell me why,Anita Meyer,1981
+712,Helpless,Neil Young,1972
+713,Versailles,White Soxx,1981
+714,Lady Jane,Rolling Stones,1966
+715,I put a spell on you,Alan Price Set,1966
+716,Beds are burning,Midnight Oil,1988
+717,Lemon tree,Fools Garden,1996
+718,We'll meet again,Vera Lynn,1939
+719,State of independence,Donna Summer,1982
+720,Cold as ice,Foreigner,1987
+721,Psycho killer,Talking Heads,1972
+722,You can't hurry love,Phil Collins,1981
+723,Unchain my heart,Joe Cocker,1987
+724,Memories,Earth & Fire,1972
+725,Woman,John Lennon,1981
+726,Run to you,Bryan Adams,1985
+727,Show me the way,Peter Frampton,1976
+728,S.O.S.,Abba,1975
+729,You're the voice,John Farnham,1987
+730,Close to you,Carpenters,1970
+731,Brandend zand,Anneke Gronloh,1962
+732,Rivers of Babylon,Boney M,1978
+733,Clocks,Coldplay,2003
+734,China girl,David Bowie,1983
+735,No milk today,Herman's Hermits,1966
+736,Three times a lady,Commodores,1978
+737,Leaving on a jetplane,John Denver,1969
+738,Waterloo sunset,Kinks,1967
+739,Good year for the roses,Elvis Costello,1981
+740,Night fever,Bee Gees,1978
+741,I want you,Bob Dylan,1966
+742,Running up that hill,Kate Bush,1985
+743,Malle Babbe,Rob de Nijs,1975
+744,Bright side of the road,Van Morrison,1979
+745,The worker,Fischer Z,1979
+746,When you say nothing at all,Ronan Keating,1999
+747,Maggie May,Rod Stewart,1971
+748,Driving home for Christmas,Chris Rea,1986
+749,Fly like an eagle,Steve Miller Band,1976
+750,Prisencolinensinainciusol,Adriano Celentano,1973
+751,Beast of burden,Bette Midler,1984
+752,Jessie,Joshua Kadison,1994
+753,The thrill is gone,BB King,1969
+754,Suite Judy blue eyes,Crosby Stills Nash & Young,1969
+755,Lay lady lay,Bob Dylan,1969
+756,Stiekem gedanst,Toontje Lager,1983
+757,Suicide is painless,MASH,1970
+758,Close to me,Cure,1985
+759,We were all wounded at Wounded Knee,Redbone,1973
+760,Beat it,Michael Jackson,1983
+761,Ain't no sunshine,Bill Withers,1971
+762,I've got dreams to remember,Otis Redding,1968
+763,Big in Japan,Alphaville,1984
+764,Eldorado,Electric Light Orchestra,1975
+765,All right now,Free,1970
+766,I say a little prayer,Aretha Franklin,1968
+767,Don't stop,Fleetwood Mac,1977
+768,Time is on my side,Rolling Stones,1964
+769,Pour que tu m'aimes encore,Celine Dion,1995
+770,I don't like Mondays,Boomtown Rats,1979
+771,De bestemming,Marco Borsato,1998
+772,Come on Eileen,Dexys Midnight Runners ,1982
+773,The wild places,Duncan Browne,1979
+774,Road to nowhere,Talking Heads,1985
+775,Jolene,Dolly Parton,1974
+776,The promise you made,Cock Robin,1986
+777,Heal the world,Michael Jackson,1992
+778,Yesterday when I was young,Charles Aznavour,1970
+779,Natural woman,Aretha Franklin,1967
+780,The look of love,ABC,1982
+781,You win again,Bee Gees,1987
+782,Ain't got no I got life,Nina Simone,1968
+783,The weight,Band,1968
+784,One night,Elvis Presley,1957
+785,Hilton Barcelona,Stef Bos,1994
+786,The last time,Rolling Stones,1965
+787,Long as I can see the light,Creedence Clearwater Revival,1970
+788,Relight my fire,Dan Hartman,1980
+789,Summer is over,Dusty Springfield,1964
+790,I'll find my way home,Jon & Vangelis,1982
+791,1999,Prince,1982
+792,At seventeen,Janis Ian,1974
+793,Let it grow,Eric Clapton,1974
+794,What's a woman,Vaya Con Dios,1990
+795,Bird of paradise,Snowy White,1984
+796,Homburg,Procol Harum,1967
+797,This town ain't big enough for the both of us,Sparks,1974
+798,Wonderful life,Black,1987
+799,Eight miles high,Byrds,1966
+800,Open einde,Rob de Nijs,1987
+801,Mainstreet,Bob Seger,1977
+802,When I'm sixty-four,Beatles,1967
+803,Streets of London,Ralph McTell,1972
+804,Complaints pour Ste Catherine,Ann & Katie McGarrigle,1976
+805,I'll have to say I love you in a song,Jim Croce,1975
+806,Late again,Stealers Wheel,1973
+807,Beautiful day,U2,2000
+808,Marieke,Jacques Brel,1961
+809,Lay down,Melanie,1969
+810,Cocaine,J J Cale,1976
+811,Senza una donna,Zucchero Fornaciari,1987
+812,He'll have to go,Jim Reeves,1960
+813,I want you to want me,Cheap Trick,1979
+814,He'll have to go,Ry Cooder,1976
+815,Somebody to love,Jefferson Airplane,1970
+816,All cried out,Alison Moyet,1984
+817,I'm a believer,Monkees,1966
+818,Only you,Platters,1955
+819,Kom van dat dak af,Peter Koelewijn & Rockets,1960
+820,Alone,Heart,1987
+821,Blijf bij mij,Paul de Leeuw & Ruth Jacott,1993
+822,Sowing the seeds of love,Tears For Fears,1989
+823,Apres toi,Vicky Leandros,1972
+824,Zonder jou,Simone Kleinsma & Paul de Leeuw,1995
+825,Adiemus,Adiemus,1995
+826,It's all over now baby blue,Them,1966
+827,Rikki don't lose that number,Steely Dan,1974
+828,I saw her standing there,Beatles,1963
+829,Well allright,Buddy Holly,1958
+830,Sure know something,Kiss,1979
+831,I will survive,Gloria Gaynor,1979
+832,Super trouper,Abba,1980
+833,September,Earth Wind & Fire,1979
+834,KL 204,Peter Koelewijn,1978
+835,Burning love,Elvis Presley,1972
+836,(Something inside) So strong,Labi Siffre,1987
+837,I heard it through the grapevine,Marvin Gaye,1969
+838,This strange effect,Dave Berry,1965
+839,Johnny B Goode,Chuck Berry,1958
+840,All of my heart,ABC,1982
+841,Spanish stroll,Mink DeVille,1977
+842,A thing called love,Johnny Cash,1972
+843,Rock 'n roll highschool,Ramones,1980
+844,Cose della vita,Eros Ramazzotti & Tina Turner,1993
+845,Go now,Moody Blues,1965
+846,Is dit alles,Doe Maar,1982
+847,From a distance,Bette Midler,1991
+848,Zwart wit,Frank Boeijen Groep,1984
+849,Don't be cruel,Elvis Presley,1956
+850,Ich bin wie du,Marianne Rosenberg,1976
+851,Lady Madonna,Beatles,1968
+852,Hey St Peter,Flash & The Pan,1977
+853,Sweet dreams,Eurythmics,1983
+854,On the road again,Canned Heat,1968
+855,Boulevard de la Madeleine,Moody Blues,1966
+856,Sorry seems to be the hardest word,Elton John,1976
+857,Shout,Trammps,1975
+858,Please forgive me,Bryan Adams,1993
+859,Let's stick together,Bryan Ferry,1976
+860,And I love her,Beatles,1964
+861,Lili Marlene,Marlene Dietrich,1944
+862,MacArthur Park,Donna Summer,1978
+863,Honesty,Billy Joel,1979
+864,Dance the night away,Mavericks,1998
+865,Bouree,Jethro Tull,1969
+866,Promised you a miracle,Simple Minds,1982
+867,Se bastasse una canzone,Eros Ramazzotti,1990
+868,When a man loves a woman,Percy Sledge,1966
+869,Birmingham,Randy Newman,1974
+870,Don't let the sun go down on me,George Michael & Elton John,1991
+871,Airport song,Magna Carta,1970
+872,Orchard Road,Leo Sayer,1983
+873,Where have I been wrong,Cats,1970
+874,You can call me Al,Paul Simon,1986
+875,I'll be over you,Toto,1986
+876,Blue hotel,Chris Isaak,1987
+877,Someone,Axis,1975
+878,Netherlands,Dan Fogelberg,1977
+879,Here comes the night,Them,1965
+880,Jealous guy,Roxy Music,1981
+881,Maybe tomorrow maybe tonight,Earth & Fire,1973
+882,I'm just a singer in a rock 'n roll band,Moody Blues,1973
+883,I just can't get enough,Depeche Mode,1985
+884,Smooth,Santana & Rob Thomas,1999
+885,Even aan mijn moeder vragen,Bloem,1980
+886,When I was young,Eric Burdon & The Animals,1967
+887,My friend the wind,Demis Roussos,1973
+888,Verdammt ich lieb' dich,Matthias Reim,1990
+889,Belle Helene,Doe Maar,1982
+890,Crazy on you,Heart,1977
+891,Spinning wheel,Blood Sweat & Tears,1969
+892,Tragedy,Bee Gees,1979
+893,Mooi liedje,Acda & De Munnik,1997
+894,Had to fall in love,Moody Blues,1978
+895,How can you mend a broken heart,Bee Gees,1971
+896,Atlantis,Donovan,1968
+897,Start me up,Rolling Stones,1981
+898,Back in the USSR,Beatles,1968
+899,Grand hotel,Procol Harum,1973
+900,I'm a train,Albert Hammond,1974
+901,Je loog tegen mij,Drukwerk,1981
+902,This is the moment,Rene Froger,1992
+903,Sexual healing,Marvin Gaye,1982
+904,Europe,Santana,1978
+905,The ballad of Lucy Jordan,Marianne Faithfull,1979
+906,Hou me vast,Volumia,1998
+907,Waarom fluister ik je naam nog,Benny Neyman,1985
+908,Only love can break your heart,Neil Young,1970
+909,The sun always shines on tv,A-Ha,1985
+910,Monday Monday,Mama's & Papa's,1966
+911,Island in the sun,Harry Belafonte,1957
+912,Where do you go to my lovely,Peter Sarstedt,1969
+913,The way we were,Barbra Streisand,1974
+914,Golden years,David Bowie,1976
+915,Poppa Joe,Sweet,1972
+916,Eres tu,Mocedades,1973
+917,Zondagmiddag Buitenveldert,Frans Halsema,1969
+918,Strangers in the night,Frank Sinatra,1966
+919,Casser la voix,Patrick Bruel,1991
+920,It's raining again,Supertramp,1982
+921,It's over,Roy Orbison,1964
+922,All out of love,Air Supply,1980
+923,100 years,Joey Dyser,1975
+924,House of the king,Focus,1971
+925,Drive,Cars,1984
+926,Miss you,Rolling Stones,1978
+927,Shout,Tears For Fears,1985
+928,Devil in disguise,Elvis Presley,1963
+929,Wasted words,Motions,1965
+930,Promise me,Beverly Craven,1990
+931,A hard day's night,Beatles,1964
+932,Titles,Barclay James Harvest,1976
+933,Across the universe,Beatles,1967
+934,Midnight rambler,Rolling Stones,1967
+935,Twist in my sobriety,Tanita Tikaram,1988
+936,The living years,Mike & The Mechanics,1989
+937,Merry Christmas everybody,Slade,1973
+938,After midnight,Eric Clapton,1970
+939,This is my life,Shirley Bassey,1979
+940,Dead flowers,Rolling Stones,1971
+941,We can work it out,Beatles,1965
+942,Sailing to Philadelphia,Mark Knopfler,2000
+943,It's raining men,Weather Girls,1983
+944,Universal soldier,Donovan,1965
+945,Itchycoo Park,Small Faces,1967
+946,Live and let die,Wings,1973
+947,Smooth operator,Sade,1984
+948,Lido shuffle,Boz Scaggs,1977
+949,Living doll,Cliff Richard,1959
+950,Georgia on my mind,Ray Charles,1960
+951,Love is a battlefield,Pat Benatar,1984
+952,Without you,Nilsson,1972
+953,Fire,Pointer Sisters,1984
+954,Wooden heart,Elvis Presley,1961
+955,Tie your mother down,Queen,1977
+956,Green green grass of home,Tom Jones,1966
+957,Sunshine of your love,Cream,1968
+958,Unbeschreiblich weiblich,Nina Hagen,1979
+959,Spirit in the sky,Norman Greenbaum,1970
+960,My back pages,Byrds,1967
+961,Weekend,Earth & Fire,1979
+962,One more night,Phil Collins,1985
+963,Enola gay,Orchestral Manoeuvres In The Dark,1980
+964,Love on the rocks,Neil Diamond,1980
+965,Lonely boy,Andrew Gold,1977
+966,La isla bonita,Madonna,1987
+967,Als de dag van toen,Reinhard Mey,1975
+968,Friday on my mind,Easybeats,1966
+969,Ik doe wat ik doe,Astrid Nijgh,1973
+970,Never be clever,Herman Brood & His Wild Romance,1979
+971,Get up stand up,Bob Marley & The Wailers,1973
+972,Conquistador,Procol Harum,1972
+973,Under my thumb,Rolling Stones,1966
+974,Mon amour,BZN,1976
+975,Lucy in the sky with diamonds,Beatles,1967
+976,Laat me alleen,Rita Hovink,1977
+977,The last seven days,Unit Gloria,1969
+978,As tears go by,Marianne Faithfull,1964
+979,Let's spend the night together,Rolling Stones,1967
+980,Miss you nights,Cliff Richard,1976
+981,Secret garden,Bruce Springsteen,1997
+982,Let's dance,David Bowie,1983
+983,Telkens weer,Willeke Alberti,1975
+984,Coz I love you,Slade,1971
+985,A salty dog,Procol Harum,1969
+986,Always look on the bright side of life,Monthy Pyton,1979
+987,It's a man's world,James Brown,1966
+988,Zeg maar niets meer,Andre Hazes,1986
+989,For what it's worth,Buffalo Springfield,1969
+990,Sunny afternoon,Kinks,1966
+991,Late in the evening,Paul Simon,1980
+992,A real mother for ya,Johnny Guitar Watson,1977
+993,Save the last dance for me,Drifters,1961
+994,Because the night,Patti Smith,1978
+995,Smoorverliefd,Doe Maar,1981
+996,Ti sento,Matia Bazar,1986
+997,Dancing in the street,David Bowie & Mick Jagger,1985
+998,Yesterday once more,Carpenters,1973
+999,Patsy,Rein de Vries,1965
+1000,Waiting for a girl like you,Foreigner,1982
+1001,Water of love,Dire Straits,1978
+1002,A different corner,George Michael,1986
+1003,Runaway,Del Shannon,1961
+1004,Crazy horses,Osmonds,1972
+1005,(Walk me out in the) Morning dew,Long John Baldry,1981
+1006,The power of love,Celine Dion,1998
+1007,We belong to the night,Ellen Foley,1979
+1008,Living doll,Cliff Richard & The Young Ones,1986
+1009,Superstition,Stevie Wonder,1973
+1010,Sacramento,Middle Of The Road,1972
+1011,Could you be loved,Bob Marley & The Wailers,1980
+1012,Torn,Nathalie Imbruglia,1997
+1013,Food for thought,UB 40,1980
+1014,Vanmorgen vloog ze nog,Tsjechov,1988
+1015,New York New York,Frank Sinatra,1983
+1016,Rockin' all over the world,Status Quo,1977
+1017,The sun ain't gonna shine anymore,Walker Brothers,1966
+1018,Dreams,Fleetwood Mac,1977
+1019,Girl you'll be a woman soon,Neil Diamond,1971
+1020,Does your mother know,Abba,1979
+1021,You were my friend,Chi Coltrane,1973
+1022,I can hear music,Beach Boys,1969
+1023,Gold,Spandau Ballet,1983
+1024,The young ones,Cliff Richard,1962
+1025,A groovy kind of love,Phil Collins,1988
+1026,No matter what,Boyzone,1998
+1027,Ramblin' man,Allman Brothers Band,1973
+1028,Oxygene IV,Jean Michel Jarre,1977
+1029,Heart of stone,Rolling Stones,1965
+1030,On the wings of a nightingale,Everly Brothers,1984
+1031,Turn turn turn,Byrds,1965
+1032,September morn',Neil Diamond,1979
+1033,The opera,Dizzy Man's Band,1975
+1034,Time is tight,Booker T & The MG's,1969
+1035,Sister golden hair,America,1990
+1036,I'd rather go blind,Chicken Shack,1969
+1037,Get here,Oleta Adams,1990
+1038,Maria,West Side Story Film Cast,1957
+1039,Zij gelooft in mij,Andre Hazes,2000
+1040,Sympathy,Steve Rowland & Family Dogg,1970
+1041,I think I love you,Partridge Family,1970
+1042,I can't dance,Genesis,1991
+1043,50 ways to leave your lover,Paul Simon,1975
+1044,Believe,Cher,1998
+1045,Hello Josephine,Scorpions,1965
+1046,Killing me softly with his song,Roberta Flack,1973
+1047,There must be an angel,Eurythmics,1985
+1048,The Jean genie,David Bowie,1973
+1049,We gotta get out of this place,Animals,1965
+1050,What is life,George Harrison,1971
+1051,15 miljoen mensen,Fluitsma & Van Tijn,1995
+1052,Walking on the moon,Police,1979
+1053,Dancing with tears in my eyes,Ultravox,1984
+1054,Fly me to the moon,Frank Sinatra,1964
+1055,Let's get loud,Jennifer Lopez,1999
+1056,Daniel,Elton John,1973
+1057,Girl,Beatles,1965
+1058,Summertime blues,Blue Cheer,1968
+1059,Woorden zonder woorden,Kast,1998
+1060,Davy's on the road again,Manfred Mann's Earth Band,1978
+1061,Het regent zonnestralen,Acda & De Munnik,1998
+1062,Duel eye to eye,Propaganda,1985
+1063,I'm a man,Spencer Davis Group,1967
+1064,Paloma blanca,George Baker Selection,1975
+1065,Oh Carol,Neil Sedaka,1960
+1066,Love is the drug,Roxy Music,1976
+1067,Leven na de dood,Freek de Jonge,1997
+1068,Unforgettable,Nat King Cole,1951
+1069,Dolce Paola,Adamo,1965
+1070,De bom,Doe Maar,1982
+1071,Hilversum 3,Herman van Veen,1985
+1072,Wishful thinking,China Crisis,1984
+1073,Isn't she lovely,Stevie Wonder,1976
+1074,Touch,Outsiders,1966
+1075,Don't let me be misunderstood,Santa Esmeralda,1977
+1076,High,Lighthouse Family,1998
+1077,Hurt,Timi Yuro,1961
+1078,Passie,Clouseau,1995
+1079,The tide is high,Blondie,1980
+1080,Roll over Beethoven,Electric Light Orchestra,1973
+1081,Best of both worlds,Robert Palmer,1978
+1082,Op fietse,Skik,1997
+1083,No regrets,Walker Brothers,1976
+1084,You can leave your hat on,Joe Cocker,1986
+1085,Gimme gimme gimme,Abba,1979
+1086,I've been loving you too long,Otis Redding,1965
+1087,Living next door to Alice,Smokie,1977
+1088,The look,Roxette,1989
+1089,Reason to believe,Rod Stewart,1971
+1090,Hard to say I'm sorry,Chicago,1982
+1091,Love of the common people,Paul Young,1984
+1092,Heartbreak hotel,Elvis Presley,1956
+1093,Air,Ekseption,1969
+1094,That was yesterday,Foreigner,1984
+1095,Gaia,Valensia,1993
+1096,Sammy,Ramses Shaffy,1966
+1097,Fever,Peggy Lee,1959
+1098,Sound and vision,David Bowie,1977
+1099,I won't stand between them,Bonnie St Claire,1970
+1100,Ik ben blij dat ik je niet vergeten ben,Joost Nuissl,1975
+1101,Tin soldier,Small Faces,1968
+1102,Up around the bend,Creedence Clearwater Revival,1970
+1103,Mexico,Les Humphries Singers,1972
+1104,Have you ever really loved a woman,Bryan Adams,1995
+1105,Spanish eyes,Al Martino,1966
+1106,Een vriend,Andre Hazes,1980
+1107,Summer in the city,Lovin' Spoonful,1966
+1108,Happy X-mas (War is over),John Lennon & Yoko Ono,1972
+1109,Luka,Suzanne Vega,1987
+1110,The day that curly Billy shot down crazy Sam McGee,Hollies,1973
+1111,Tainted love,Soft Cell,1981
+1112,While you see a chance,Steve Winwood,1981
+1113,Huilen is voor jou te laat,Corry & De Rekels,1970
+1114,Kiss,Prince & The Revolution,1986
+1115,Pour moi la vie va commencer,Johnny Halliday,1963
+1116,Pamela,Toto,1988
+1117,You needed me,Anne Murray,1978
+1118,Substitute,Who,1966
+1119,Rosalyn,Vitesse,1982
+1120,Vaya con dios,Cats,1972
+1121,Tigerfeet,Mud,1974
+1122,Spanish Harlem,Aretha Franklin,1971
+1123,It never rains in southern California,Albert Hammond,1972
+1124,All my loving,Beatles,1964
+1125,Long train running,Doobie Brothers,1973
+1126,Wonderful,Colin Blunstone,1973
+1127,Don't bring me down,Electric Light Orchestra,1979
+1128,Chariots of fire,Vangelis,1982
+1129,Lessons in love,Level 42,1986
+1130,Runaway boys,Stray Cats,1980
+1131,An Englishman in New York,Godley & Creme,1980
+1132,Ain't nobody,Rufus & Chaka Khan,1984
+1133,Why,Cats,1969
+1134,Zuiderzeeballade,Sylvain Poons & Oetze Verschoor,1962
+1135,I wish,Stevie Wonder,1977
+1136,Time of the season,Zombies,1969
+1137,You and me,Spargo,1980
+1138,Wild thing,Troggs,1966
+1139,Giving it all away,Roger Daltrey,1973
+1140,Les lacs du Connemaras,Michel Sardou,1981
+1141,What's love got to do with it,Tina Turner,1984
+1142,Times were when,Cats,1968
+1143,Don't go,Yazoo,1982
+1144,Nightshift,Commodores,1985
+1145,Think twice,Celine Dion,1995
+1146,Can't buy me love,Beatles,1964
+1147,My special prayer,Percy Sledge,1969
+1148,People are people,Depeche Mode,1984
+1149,Nah neh nah,Vaya Con Dios,1990
+1150,Daydream believer,Monkees,1967
+1151,Somebody else's lover,Total Touch,1996
+1152,Fire and rain,James Taylor,1970
+1153,Walk like an Egyptian,Bangles,1987
+1154,If paradise is half as nice,Amen Corner,1969
+1155,The 5th,Ekseption,1969
+1156,Anak,Freddie Aguilar,1980
+1157,24 rozen,Toon Hermans,1966
+1158,Don't wanna say goodbye,Raspberries,1972
+1159,A piece of the action,Babys,1978
+1160,Old town,Phil Lynott,1982
+1161,Addicted to love,Robert Palmer,1986
+1162,Live to tell,Madonna,1986
+1163,Sailing home,Piet Veerman,1987
+1164,Boogie wonderland,"Earth, Wind & Fire",1979
+1165,I got you babe,UB 40 & Chrissie Hynde,1985
+1166,Ritme van de regen,Rob de Nijs,1963
+1167,New York mining disaster 1941,Bee Gees,1967
+1168,Ferry cross the Mersey,Gerry & The Pacemakers,1964
+1169,Song sung blue,Neil Diamond,1972
+1170,I've got you under my skin,Frank Sinatra,1966
+1171,I close my eyes and count to ten,Dusty Springfield,1968
+1172,Love games,Level 42,1981
+1173,Milord,Edith Piaf,1960
+1174,Back home,Cuby & The Blizzards,1966
+1175,Sound of the screaming day,Golden Earrings,1967
+1176,Just the way you are,Billy Joel,1978
+1177,Reach out I'll be there,Four Tops,1966
+1178,Forever blue,Little River Band,1995
+1179,Thank God I'm a country boy,John Denver,1971
+1180,Everywhere,Fleetwood Mac,1988
+1181,Livin' thing,Electric Light Orchestra,1976
+1182,La vie en rose,Grace Jones,1977
+1183,Blue bayou,Linda Ronstadt,1977
+1184,Het kleine cafe aan de haven,Vader Abraham,1976
+1185,Solitudine,Laura Pausini,1993
+1186,We don't need another hero,Tina Turner,1985
+1187,The alternative way,Anita Meyer & Hans Vermeulen,1976
+1188,Winter in America,Doug Ashdown,1978
+1189,Time after time,Cyndi Lauper,1984
+1190,Love letters in the sand,Pat Boone,1957
+1191,Never ever,All Saints,1997
+1192,Happy together,Turtles,1967
+1193,Lovin' you,Minnie Riperton,1975
+1194,Wonderful land,Shadows,1962
+1195,De glimlach van een kind,Willy Alberti,1968
+1196,Great balls of fire,Jerry Lee Lewis,1957
+1197,Alles wat ademt,Rob de Nijs,1985
+1198,Take my breath away,Berlin,1986
+1199,Theme from Mahogany,Diana Ross,1976
+1200,If I fell,Beatles,1965
+1201,Il treni di tozeur,Alice & Battiato,1984
+1202,Glad all over,Dave Clark Five,1964
+1203,Kinderballade,Boudewijn de Groot,1977
+1204,One day I'll fly away,Randy Crawford,1980
+1205,Homeward bound,Simon & Garfunkel,1966
+1206,Wild boys,Duran Duran,1984
+1207,Get down and get with it,Slade,1971
+1208,The pretender,Jackson Browne,1976
+1209,The devil went down to Georgia,Charlie Daniels Band,1979
+1210,I'm sorry,Brenda Lee,1960
+1211,Kids in America,Kim Wilde,1981
+1212,My ever changing moods,Style Council,1984
+1213,Window of hope,Oleta Adams,1993
+1214,Cent mille chansons,Frida Boccara,1969
+1215,It's over,Level 42,1987
+1216,Ebony eyes,Everly Brothers,1961
+1217,You never walk alone,Lee Towers,1976
+1218,Alabama,Neil Young,1972
+1219,Manuela,Jacques Herb,1971
+1220,I don't believe in if anymore,Roger Whittaker,1970
+1221,I lie and I cheat,Won Ton Ton,1988
+1222,Let your love flow,Bellamy Brothers,1976
+1223,Where have all the flowers gone,Marlene Dietrich,1963
+1224,Can you feel the love tonight,Elton John,1995
+1225,Tomorrow is another day,Buffoons,1967
+1226,Teardrops,Womack & Womack,1988
+1227,Lazy sunday,Small Faces,1968
+1228,Absolute beginners,David Bowie,1986
+1229,Stand by me,Ben E King,1987
+1230,Follow me,Amanda Lear,1978
+1231,She loves you,Beatles,1963
+1232,You're the inspiration,Chicago,1985
+1233,A brand new day,Wiz Stars,1979
+1234,Days,Kinks,1968
+1235,Let the music play,Barry White,1976
+1236,It's a sin,Pet Shop Boys,1987
+1237,Toveren,Herman van Veen,1987
+1238,Liefde voor muziek,Raymond van het Groenewoud,1991
+1239,The end of the show,Cats,1980
+1240,Wake me up before you go go,Wham,1984
+1241,Goodbye stranger,Supertramp,1979
+1242,Ik heb genoeg van jou,ZZ & De Maskers,1965
+1243,No more heroes,Stranglers,1978
+1244,Man of the world,Fleetwood Mac,1969
+1245,Elephant song,Kamahl,1975
+1246,Que sera sera,Doris Day,1956
+1247,To love somebody,Bee Gees,1967
+1248,Rosie,Joan Armatrading,1980
+1249,Kaap'ren varen,Fungus,1974
+1250,Wrap your arms around me,Agnetha Faltskog,1983
+1251,Sir Duke,Stevie Wonder,1977
+1252,We are the world,USA For Africa,1985
+1253,Rock 'n roll,Cats,1974
+1254,N'oubliez jamais,Joe Cocker,1997
+1255,Turn to stone,Electric Light Orchestra,1977
+1256,Eight days a week,Beatles,1965
+1257,Take a chance on me,Abba,1977
+1258,Kiss you all over,Exile,1978
+1259,When you are a king,White Plains,1971
+1260,Angel eyes,Wet Wet Wet,1988
+1261,Vrede,Ruth Jacott,1993
+1262,I will always love you,Dolly Parton,1983
+1263,Walking in Memphis,Marc Cohn,1991
+1264,For your love,Yardbirds,1965
+1265,Ain't no mountain high enough,Diana Ross & Supremes,1970
+1266,You've got your troubles,Fortunes,1965
+1267,The things we do for love,10CC,1976
+1268,The old fashioned way,Charles Aznavour,1973
+1269,Heart of glass,Blondie,1978
+1270,Don't leave me this way,Communards,1986
+1271,36-24-36,Shadows,1961
+1272,In the summertime,Mungo Jerry,1970
+1273,Without your love,Roger Daltrey,1981
+1274,Got my mind set on you,George Harrison,1987
+1275,Suzanne,VOF de Kunst,1983
+1276,Still the same,Bob Seger & The Silver Bullet Band,1978
+1277,The longest time,Billy Joel,1984
+1278,I feel love,Donna Summer,1977
+1279,Short people,Randy Newman,1977
+1280,Why,Bronski Beat,1990
+1281,Like a virgin,Madonna,1984
+1282,My baby just cares for me,Nina Simone,1987
+1283,'t Is weer voorbij die mooie zomer,Gerard Cox,1973
+1284,This is not America,David Bowie,1985
+1285,Twist and shout,Beatles,1963
+1286,I believe I can fly,R Kelly,1996
+1287,We all stand together,Paul McCartney,1984
+1288,Islands in the stream,Kenny Rogers & Dolly Parton,1983
+1289,Bombay,Golden Earring,1976
+1290,Babooshka,Kate Bush,1980
+1291,Hou van mij,Het Goede Doel,1983
+1292,Forever man,Eric Clapton,1985
+1293,You're the one that I want,John Travolta & Olivia Newton-John,1978
+1294,Everybody's somebody's fool,Conny Francis,1960
+1295,Marmor Stein und Eisen bricht,Drafi Deutscher,1965
+1296,Walking back to happiness,Helen Shapiro,1961
+1297,La mama,Charles Aznavour,1963
+1298,When you're in love with a beautiful woman,Dr Hook,1970
+1299,Diana,Paul Anka,1957
+1300,I am a rock,Simon & Garfunkel,1966
+1301,Sailing,Christopher Cross,1981
+1302,Everybody wants to rule the world,Tears For Fears,1985
+1303,Weekend love,Golden Earring,1979
+1304,On the beach,Chris Rea,1986
+1305,Goodmorning judge,10CC,1977
+1306,Summernight city,Abba,1978
+1307,African beat,Bert Kaempfert,1962
+1308,Hello again,Neil Diamond,1981
+1309,There's no more corn on the brasos,Walkers,1971
+1310,Disco inferno,Trammps,1977
+1311,Stop,Sam Brown,1988
+1312,Can we still be friends,Robert Palmer,1979
+1313,Red sails in the sunset,Fats Domino,1963
+1314,Ventura highway,America,1972
+1315,To France,Mike Oldfield,1984
+1316,If tomorrow never comes,Ronan Keating,2002
+1317,Hello goodbye,Beatles,1967
+1318,Butterfly kisses,Bob Carlisle,1997
+1319,Sailor,Sailor,1975
+1320,When I need you,Leo Sayer,1977
+1321,This melody,Julien Clerc,1976
+1322,Sacrifice,Elton John,1990
+1323,Don't cry for me Argentina,Julie Covington,1977
+1324,Easy,Commodores,1978
+1325,Un canto a Galicia,Julio Iglesias,1972
+1326,Skandal im Sperrbezirk,Spider Murphy Gang,1982
+1327,I feel fine,Beatles,1965
+1328,San Franciscan nights,Eric Burdon & The Animals,1967
+1329,Rose of Cimarron,Poco,1976
+1330,Are you sure,Allisons,1961
+1331,Mannish boy,Muddy Waters,1988
+1332,Reeling in the years,Steely Dan,1973
+1333,I'm so excited,Pointer Sisters,1982
+1334,Do you wanna dance,Cliff Richard,1962
+1335,Ik zou wel eens willen weten,Jules de Corte,1955
+1336,Daydream,Wallace Collection,1969
+1337,Crazy,Icehouse,1987
+1338,Love is a stranger,Eurythmics,1983
+1339,Somewhere over the rainbow,Judy Garland,1939
+1340,Sealed with a kiss,Bobby Vinton,1972
+1341,If I had a hammer,Trini Lopez,1963
+1342,Sweet soul music,Arthur Conley,1967
+1343,Jingoloba,Santana,1970
+1344,Are your ready,Pacific Gas & Electric,1970
+1345,I hope I never,Split Enz,1979
+1346,Airport,Motors,1978
+1347,When will I see you again,Three Degrees,1974
+1348,Stuck in the middle with you,Stealers Wheel,1973
+1349,Wishing you were here,Chicago,1974
+1350,Bangla Desh,George Harrison,1971
+1351,Just an illusion,BZN,1983
+1352,The ballad of John & Yoko,Beatles,1969
+1353,Ring ring I've got to sing,Ferre Grignard,1966
+1354,Guus,Alexander Curly,1975
+1355,Peaceful easy feelin',Eagles,1972
+1356,Buona sera,Louis Prima,1958
+1357,I can't stop loving you,Ray Charles,1962
+1358,Home on a Monday,Little River Band,1977
+1359,Saved by the bell,Robin Gibb,1969
+1360,Cracklin' Rosie,Neil Diamond,1970
+1361,Beast of burden,Rolling Stones,1978
+1362,Red river rock,Johnny & The Hurricanes,1960
+1363,Song for Guy,Elton John,1979
+1364,Never marry a railroad man,Shocking Blue,1970
+1365,Some kind of wonderful,Grand Funk Railroad,1975
+1366,After midnight,J J Cale,1972
+1367,Stuck in a moment you can't get out of,U2,2000
+1368,Another day,Paul McCartney,1971
+1369,Big yellow taxi,Joni Mitchell,1970
+1370,I love you because,Jim Reeves,1964
+1371,Lonely this Christmas,Mud,1974
+1372,Rebel rebel,David Bowie,1974
+1373,Zij maakt het verschil,Poema's,2001
+1374,Hello hooray,Alice Cooper,1973
+1375,American woman,Guess Who,1970
+1376,It's only rock 'n roll,Rolling Stones,1974
+1377,Those were the days,Mary Hopkin,1968
+1378,Pearl's a singer,Elkie Brooks,1977
+1379,Can't help falling in love,UB 40,1993
+1380,Intimiteit,Kadanz,1984
+1381,My lady of Spain,Classics,1972
+1382,Because you loved me,Celine Dion,1996
+1383,No reply,Beatles,1964
+1384,Gute Nacht Freunde,Reinhard Mey,1974
+1385,It's the end,Buffoons,1968
+1386,La mer,Charles Trenet,1952
+1387,Darling be home soon,Lovin' Spoonful,1967
+1388,Always on my mind,Willie Nelson,1982
+1389,Afscheid,Volumia!,1998
+1390,Cecillia,Simon & Garfunkel,1970
+1391,Forever autumn,Justin Hayward,1978
+1392,You really got me,Kinks,1964
+1393,You got it,Roy Orbison,1989
+1394,Maybe I'm amazed,Wings,1977
+1395,Il est cinq heures Paris s'eveille,Jacques Dutronc,1968
+1396,Tell me,Rolling Stones,1965
+1397,Yellow submarine,Beatles,1966
+1398,Funkytown,Lipps Inc,1980
+1399,Love me do,Beatles,1962
+1400,Vivere,Andrea Bocelli & Gerardina Trovato,1994
+1401,Can't stand losing you,Police,1978
+1402,White Christmas,Bing Crosby,1942
+1403,All around my hat,Steeleye Span,1976
+1404,Shine silently,Nils Lofgren,1979
+1405,Nutbush city limits,Ike & Tina Turner,1966
+1406,Only lies,Greenfield & Cook,1971
+1407,The power of love,Jennifer Rush,1985
+1408,Pa,Doe Maar,1983
+1409,I hear you now,Jon & Vangelis,1979
+1410,Copacabana,Barry Manilow,1978
+1411,Looking out for no 1,Bachman-Turner Overdrive,1975
+1412,All or nothing,Small Faces,1966
+1413,Osaka,Shoes,1970
+1414,The joker,Steve Miller Band,1973
+1415,Words,Christians,1990
+1416,Caravan of love,Housemartins,1987
+1417,The great pretender,Platters,1957
+1418,Money's too tight (to mention),Simply Red,1985
+1419,Route 66,Rolling Stones,1964
+1420,I just called to say I love you,Stevie Wonder,1984
+1421,Rainy day women nos 12 & 35,Bob Dylan,1965
+1422,Oh Lori,Alessi Brothers,1977
+1423,Liefdesliedjes,Jazzpolitie,1993
+1424,Get off of my cloud,Rolling Stones,1965
+1425,Fame,Irene Cara,1980
+1426,I want to hold your hand,Beatles,1964
+1427,Jan Klaassen de trompetter,Rob de Nijs,1973
+1428,I finally found someone,Barbra Streisand & Bryan Adams,1997
+1429,Up where we belong,Joe Cocker & Jennifer Warnes,1982
+1430,Never let her slip away,Andrew Gold,1978
+1431,China in your hand,T'Pau,1984
+1432,What a fool believes,Doobie Brothers,1978
+1433,Demasiado corazon,Mink DeVille,1984
+1434,TRUE,Spandau Ballet,1983
+1435,Dedicated follower of fashion,Kinks,1966
+1436,Forever and ever,Demis Roussos,1973
+1437,Wouldn't it be nice,Beach Boys,1966
+1438,Zwei kleine Italiener,Connie Froboess,1962
+1439,How long,Ace,1974
+1440,You are the sunshine of my life,Stevie Wonder,1972
+1441,Every kinda people,Robert Palmer,1978
+1442,Sing our own song,UB 40,1986
+1443,Right next door,Robert Cray Band,1987
+1444,Baby please don't go,Them,1965
+1445,The time of my life,Bill Medley & Jennifer Warnes,1987
+1446,You're in my heart,Rod Stewart,1977
+1447,Ik heb geen zin om op te staan,Het,1965
+1448,All by myself,Eric Carmen,1976
+1449,Distant drums,Jim Reeves,1966
+1450,How 'bout us,Champaign,1981
+1451,Tell me your plans,Shirts,1978
+1452,She goes nana,Radio's,1993
+1453,Everybody's talking,Nilsson,1969
+1454,Kiss and say goodbye,Manhattans,1976
+1455,Oh happy day,Edwin Hawkins Singers,1969
+1456,Live is life,Opus,1985
+1457,Papa don't preach,Madonna,1986
+1458,West End girls,Pet Shop Boys,1986
+1459,Spiegelbeeld,Willeke Alberti,1963
+1460,True colors,Cyndi Lauper,1986
+1461,Help me make it through the night,Gladys Knight & The Pips,1971
+1462,Roll over Beethoven,Chuck Berry,1956
+1463,Money money money,Abba,1976
+1464,Baby makes her blue jeans talk,Dr Hook,1982
+1465,A good heart,Feargal Sharkey,1985
+1466,Needles and pins,Searchers,1964
+1467,Twee motten,Dorus,1957
+1468,Sugar baby love,Rubettes,1974
+1469,I'll never drink again,Alexander Curly,1972
+1470,Sweet Caroline,Neil Diamond,1969
+1471,World of birds,Q65,1967
+1472,Just another day,Jon Secada,1992
+1473,Unbreak my heart,Toni Braxton,1996
+1474,Sealed with a kiss,Brian Hyland,1962
+1475,Crying,Don McLean,1980
+1476,Embarrasment,Madness,1981
+1477,Fame,David Bowie,1975
+1478,Need you tonight,INXS,1987
+1479,The second waltz,Andre Rieu,1994
+1480,Bus stop,Hollies,1966
+1481,The name of the game,Abba,1977
+1482,Wintertime,Kayak,1974
+1483,I go to sleep,Pretenders,1981
+1484,Kon ik maar even bij je zijn,Gordon,1991
+1485,Love me just a little bit more,Dolly Dots,1983
+1486,If I said you had a beautiful body,Bellamy Brothers,1979
+1487,I'm a man,Chicago,1969
+1488,World,Bee Gees,1968
+1489,All I have to do is dream,Everly Brothers,1958
+1490,No ordinary love,Sade,1992
+1491,Kodachrome,Paul Simon,1973
+1492,In dulce Jubilo,Mike Oldfield,1976
+1493,I got you babe,Sonny & Cher,1965
+1494,I've gotta get a message to you,Bee Gees,1969
+1495,Another day,Buckshot Lefonque,1997
+1496,Rider in the rain,Randy Newman,1977
+1497,Pictures of Lily,Who,1967
+1498,In the army now,Status Quo,1986
+1499,Can you feel it,Jacksons,1981
+1500,Monica,Circus Custers,1987
+1501,When I fall in love,Nat King Cole,1957
+1502,Cathy's clown,Everly Brothers,1960
+1503,It's too late,Carole King,1971
+1504,Zoek jezelf,Simplisties Verbond,1975
+1505,Abracadabra,Steve Miller Band,1982
+1506,Don't stop till you get enough,Michael Jackson,1979
+1507,Excerpt from A Teenage Opera,Keith West,1967
+1508,Een vrouw zoals jij,Hans de Booy,1982
+1509,My Sharona,Knack,1979
+1510,Per spoor,Guus Meeuwis & Vagant,1996
+1511,Crying in the rain,Everly Brothers,1962
+1512,Ik voel me zo verdomd alleen,Danny de Munk,1984
+1513,Let's dance,Cats,1972
+1514,Take it or leave it,Searchers,1966
+1515,You should be dancing,Bee Gees,1976
+1516,Arms of Mary,Sutherland Brothers & Quiver,1971
+1517,Soul man,Sam & Dave,1967
+1518,Something's gotten hold of my heart,Gene Pitney,1967
+1519,Many rivers to cross,Joe Cocker,1982
+1520,Zondag,Rob de Nijs,1980
+1521,One night in Bangkok,Murray Head,1985
+1522,Soldiers who want to be heroes,Rod McKuen,1971
+1523,Bye bye love,Everly Brothers,1957
+1524,She likes weeds,Tee Set,1970
+1525,Little Willy,Sweet,1972
+1526,Baby's in black,Beatles,1965
+1527,Centerfold,J Geils Band,1982
+1528,Crazy,Patsy Cline,1960
+1529,24 hours from Tulsa,Gene Pitney,1964
+1530,Borderline,Madonna,1986
+1531,Eltse grins foarby,De Kast,1997
+1532,Faithful,Marvin Welch & Farrar,1971
+1533,Le freak,Chic,1978
+1534,Ha ha said the clown,Manfred Mann,1967
+1535,Video killed the radio star,Buggles,1979
+1536,Funny funny,Sweet,1971
+1537,Matrimony,Gilbert O'Sullivan,1972
+1538,My little town,Simon & Garfunkel,1975
+1539,I've got the music in me,Kiki Dee,1974
+1540,Good luck charm,Elvis Presley,1962
+1541,Ob la di ob la da,Beatles,1969
+1542,As long as you love me,Backstreet Boys,1997
+1543,If I could turn back time,Cher,1989
+1544,Tumbling dice,Rolling Stones,1972
+1545,Little man,Sonny & Cher,1966
+1546,The carnival is over,Seekers,1965
+1547,Sophietje,Johnny Lion,1965
+1548,If I had words,Yvonne Keeley & Scott Fitzgerald,1977
+1549,Hit me with your rhythm stick,Ian Dury & The Blockheads,1978
+1550,Capital punishment,Sandy Coast,1969
+1551,Not just a flower in your hair,After Tea,1967
+1552,Russian spy and I,Hunters,1966
+1553,Be my day,Cats,1974
+1554,Summer in the city,Joe Cocker,1997
+1555,True love that's a wonder,Sandy Coast,1971
+1556,Alles kan een mens gelukkig maken,René Froger,1989
+1557,Celebration,Kool & The Gang,1980
+1558,Day tripper,Beatles,1965
+1559,Buddy Joe,Golden Earring,1972
+1560,Little lies,Fleetwood Mac,1987
+1561,Little children,Billy J Kramer & The Dakotas,1964
+1562,Walking on sunshine,Katrina & The Waves,1985
+1563,Donna,Ritchie Valens,1964
+1564,A message to you Rudy,Specials,1980
+1565,It's hard to be tender,Carly Simon,1989
+1566,Last dance,Donna Summer,1978
+1567,Silence is golden,Tremeloes,1967
+1568,Voulez-vous coucher avec moi ce soir,Labelle,1975
+1569,Sweet hitchhiker,Creedence Clearwater Revival,1973
+1570,The letter,Boxtops,1967
+1571,They don't play our lovesong anymore,Anita Meyer,1982
+1572,Yes sir I can boogie,Baccara,1977
+1573,Goodby yellow brick road,Elton John,1973
+1574,Mother and child reunion,Paul Simon,1972
+1575,Play that funky music,Wild Cherry,1976
+1576,Hopelessly devoted to you,Olivia Newton-John,1978
+1577,Wicked game,Chris Isaak,1991
+1578,I scare myself,Thomas Dolby,1984
+1579,Please don't tease,Cliff Richard,1960
+1580,Give peace a chance,Plastic Ono Band,1971
+1581,Smoke gets in your eyes,Platters,1959
+1582,Yellow river,Christie,1970
+1583,I'm still standing,Elton John,1983
+1584,Mother,John Lennon,1971
+1585,Help me Rhonda,Beach Boys,1965
+1586,Rock 'n roll music,Beatles,1965
+1587,Wij zullen doorgaan,Ramses Shaffy,1975
+1588,Ole guapa,Malando,1948
+1589,Can't stay away from you,Gloria Estefan & Miami Sound Machine,1988
+1590,Let it be me,Everly Brothers,1959
+1591,Ik ben ik,Boudewijn de Groot,1974
+1592,Gigi l'Amoroso,Dalida,1974
+1593,Harlem shuffle,Bob & Earl,19?
+1594,Give me the night,George Benson,1980
+1595,Reflections of my life,Marmalade,1970
+1596,One moment in time,Whitney Houston,1988
+1597,Margrietje,Louis Neefs,1972
+1598,Radio,Supersister,1972
+1599,Summer nights,John Travolta & Olivia Newton-John,1978
+1600,Two hearts,Phil Collins,1988
+1601,Jive talkin',Bee Gees,1975
+1602,Pied piper,Chrispian St Peters,1966
+1603,Theme from Shaft,Isaac Hayes,1971
+1604,Summer holiday,Cliff Richard,1963
+1605,Honey,Bobby Goldsboro,1968
+1606,Hey tonight,Creedence Clearwater Revival,1973
+1607,Telstar,Tornado's,1962
+1608,Pappie loop toch niet zo snel,Herman van Keeken,1971
+1609,Feels like heaven,Fiction Factory,1984
+1610,The nightfly,Donald Fagen,1982
+1611,Hold on my heart,Genesis,1992
+1612,You are,Dolly Parton,1983
+1613,O o Den Haag,Harry Klorkenstein,1982
+1614,Photograph,Ringo Starr,1973
+1615,Volare,Al Martino,1976
+1616,Some people,Cliff Richard,1987
+1617,Somewhere between,Tumbleweeds,1975
+1618,Tears of a clown,Smokey Robinson & The Miracles,1970
+1619,I've never been to me,Charlene,1982
+1620,Isabelle je t'aime,Poppy's,1972
+1621,The eyes of Jenny,Sandy Coast,1981
+1622,Breakfast,Associates,1984
+1623,Me and you and a dog named Boo,Lobo,1971
+1624,Marina,Rocco Granata,1959
+1625,Now,Dave Berry,1965
+1626,Fooled around and fell in love,Elvin Bishop,1976
+1627,Too much heaven,Bee Gees,1978
+1628,The man who sold the world,Lulu,1974
+1629,Feeling stronger every day,Chicago,1973
+1630,Coming around again,Carly Simon,1987
+1631,Handle with care,Traveling Wilbury's,1988
+1632,Yesterday man,Chris Andrews,1965
+1633,Black pearl,Margriet Eshuijs Band,1982
+1634,The night they drove old Dixie down,Joan Baez,1971
+1635,Midnight train to Georgia,Gladys Knight & The Pips,1973
+1636,Don't let the sun go down on me,Elton John,1974
+1637,Only you,Flying Pickets,1984
+1638,Everybody loves somebody,Dean Martin,1964
+1639,Please go,Golden Earrings,1965
+1640,Sussudio,Phil Collins,1985
+1641,Get it on,T. Rex,1971
+1642,Jambalaya,Carpenters,1974
+1643,Gimme some lovin',Spencer Davis Group,1966
+1644,Oye como va,Santana,1971
+1645,What can I say,Boz Scaggs,1977
+1646,Because I love,Majority One,1971
+1647,What I like about you,Romantics,1980
+1648,Barbara Ann,Beach Boys,1966
+1649,Big city,Tol Hansse,1978
+1650,Holiday,Madonna,1984
+1651,Mother's little helper,Rolling Stones,1966
+1652,Death of a clown,Dave Davies,1967
+1653,Release me,Engelbert Humperdinck,1967
+1654,Backstabbers,O'Jays,1972
+1655,Quit playing games,Backstreet Boys,1996
+1656,With you I'm born again,Billy Preston & Syreeta,1980
+1657,You are my love,Liverpool Express,1976
+1658,"Poupée de cire, poupée de son",France Gall,1965
+1659,Do you really want to hurt me,Culture Club,1982
+1660,True love,Grace Kelly & Bing Crosby,1956
+1661,Melting pot,Blue Mink,1970
+1662,Love shine a light,Katrina & The Waves,1997
+1663,We love you,Rolling Stones,1967
+1664,Along comes Mary,Assocation,1966
+1665,Meisjes met rode haren,Arne Jansen & Les Cigales,1972
+1666,My love,Paul McCartney & Wings,1973
+1667,Cosi celeste,Zucchero Fornaciari,1996
+1668,Sign your name,Terence Trent d'Arby,1988
+1669,Wheels,Billy Vaughn Orchesrra,1961
+1670,Girls just want to have fun,Cyndi Lauper,1984
+1671,Brick house,Commodores,1978
+1672,Boat on the river,Styx,1980
+1673,Keeping the dream alive,Freiheit,1989
+1674,You don't have to say you love me,Dusty Springfield,1966
+1675,I love rock 'n roll,Joan Jett & The Blackhearts,1982
+1676,I should have known better,Beatles,1964
+1677,Windforce 11,Nadieh,1987
+1678,Le printemps,Michel Fugain,1977
+1679,It's not unusual,Tom Jones,1965
+1680,Only one woman,Marbles,1968
+1681,Tell Laura I love her,Ray Peterson,1960
+1682,Suddenly,Billy Ocean,1985
+1683,Witchy woman,Eagles,1972
+1684,Paperback writer,Beatles,1966
+1685,My old piano,Diana Ross,1980
+1686,I get around,Beach Boys,1964
+1687,Hé kom aan,Dimitri van Toren,1973
+1688,The day I met Marie,Cliff Richard,1967
+1689,La ballade des gens heureux,Gerard Lenormand,1976
+1690,Seasons in the sun,Terry Jacks,1974
+1691,The French song,Lucille Starr,1965
+1692,You're my heart you're my soul,Modern Talking,1985
+1693,Into the groove,Madonna,1985
+1694,Funkin' for Jamaica,Tom Browne,1981
+1695,De troubadour,Lenny Kuhr,1969
+1696,Fred Astaire,Mo,1981
+1697,Days of Pearly Spencer,David McWilliams,1967
+1698,Music to watch girls by,Andy Williams,1967
+1699,It's my life,Animals,1965
+1700,Rawhide,Frankie Laine,1959
+1701,All night long,Lionel Richie,1983
+1702,Don't go breaking my heart,Elton John & Kiki Dee,1976
+1703,You've made me so very happy,Blood Sweat & Tears,1969
+1704,Man of action,Les Reed Orchestra,1970
+1705,New York state of mind,Billy Joel,1976
+1706,Eenzame kerst,Andre Hazes,1976
+1707,Sail along silvery moon,Billy Vaughn Orchesrra,1958
+1708,From the underworld,Herd,1967
+1709,Sausolito summernights,Diesel,1980
+1710,Uptown girl,Billy Joel,1983
+1711,Wind en zeilen,Splitsing,1986
+1712,Bad,Michael Jackson,1987
+1713,Lambada,Kaoma,1989
+1714,Guitar king,Hank the Knife & The Jets,1975
+1715,I don't wanna talk about it,Rod Stewart,1977
+1716,Adem mijn adem,Peter Schaap,1975
+1717,Do the strand,Roxy Music,1973
+1718,9 to 5,Dolly Parton,1981
+1719,Tom Dooley,Kingston Trio,1958
+1720,The baby,Hollies,1972
+1721,1948,Gerard Cox,1972
+1722,Lovely day,Bill Withers,1978
+1723,Magical mystery tour,Beatles,1975
+1724,Hot shot,Karen Young,1978
+1725,Sjakie van de hoek,Conny Vandenbos,1975
+1726,Pick up the pieces,Average White Band,1975
+1727,Heel even,Shirley,1981
+1728,C'mon everybody,Eddie Cochran,1957
+1729,Don't you want me,Human League,1982
+1730,Black is black,Los Bravos,1966
+1731,Brass in pocket,Pretenders,1980
+1732,Te veel te vaak,Liesbeth List,1974
+1733,Kayuta Hill,Partner,1978
+1734,WOLD (I am the morning dj),Harry Chapin,1974
+1735,Greased lightning,John Travolta,1978
+1736,Everlasting love,Love Affair,1968
+1737,Moviestar,Harpo,1975
+1738,Instant karma,Plastic Ono Band,1970
+1739,All I wanna do,Sheryl Crow,1994
+1740,Heaven is a place on earth,Belinda Carlisle,1988
+1741,Mexico,Zangeres Zonder Naam,1969
+1742,The legend of Xanadu,Dave Dee Dozy Beaky Mick & Tich,1968
+1743,You're a lady,Peter Skellern,1972
+1744,Personality,Lloyd Price,1959
+1745,Fly too high,Janis Ian,1979
+1746,Ticket to ride,Beatles,1965
+1747,Baby I love you,Andy Kim,1969
+1748,Keep on running,Spencer Davis Group,1966
+1749,Ik heb zo waanzinnig gedroomd,Kinderen voor Kinderen,1981
+1750,Hollywood seven,Alides Hidding,1980
+1751,More than this,Roxy Music,1982
+1752,Theme from A Star Is Born,Barbra Streisand,1977
+1753,A view to a kill,Duran Duran,1985
+1754,Everybody's got to learn sometime,Korgis,1980
+1755,Mr Pleasant,Kinks,1967
+1756,Dream a little dream,Mama Cass,1968
+1757,Mammoth,Kayak,1973
+1758,That day,Golden Earrings,1966
+1759,I've been thinking about you,London Beat,1990
+1760,Rock your baby,George McCrae,1974
+1761,A routine day,Klaatu,1979
+1762,You make loving fun,Fleetwood Mac,1978
+1763,La bamba,Ritchie Valens,1964
+1764,Intro (rock 'n roll animal),Lou Reed,1974
+1765,Petite fleur,Chris Barber's Jazz Band,1959
+1766,Tante Julia,Boudewijn de Groot,1974
+1767,Master blaster,Stevie Wonder,1980
+1768,Le lac majeur,Mort Shuman,1973
+1769,Spooky's day off,Swinging Soul Machine,1969
+1770,Here it comes again,Fortunes,1965
+1771,Queen for tonight,Helen Shapiro,1963
+1772,The show,Dizzy Man's Band,1973
+1773,I'm every woman,Chaka Khan,1979
+1774,Love Story (where do I begin),Andy Williams,1971
+1775,Then I kissed her,Beach Boys,1967
+1776,Een kopje koffie,VOF De Kunst,1987
+1777,Why did you do it,Stretch,1976
+1778,Ma preference,Julien Clerc,1978
+1779,Rocky,Don Mercedes,1976
+1780,Singing in the rain,Gene Kelly,1952
+1781,Guitar tango,Shadows,1962
+1782,If I were a carpenter,Four Tops,1968
+1783,After the love has gone,Earth Wind & Fire,1979
+1784,Woodstock,Matthew's Southern Comfort,1970
+1785,Maneater,Hall & Oates,1982
+1786,Under the boardwalk,Drifters,1964
+1787,The letter,Joe Cocker,1970
+1788,Substitute,Clout,1978
+1789,Cherchez la femme,Dr Buzzard's Original Savannah Band,1977
+1790,I'm specialized in you,Time Bandits,1983
+1791,Still,Commodores,1979
+1792,Is that all there is,Peggy Lee,1969
+1793,You don't bring me flowers,Barbra Streisand & Neil Diamond,1978
+1794,Ca plane pour moi,Plastic Bertrand,1978
+1795,Look through any window,Hollies,1965
+1796,Swimming into deep water,Don Rosenbaum,1972
+1797,Anyone who had a heart,Cilla Black,1964
+1798,Ma Baker,Boney M,1977
+1799,Ma belle amie,Tee Set,1969
+1800,Ik meen 't,Andre Hazes,1985
+1801,Katinka,Spelbrekers,1962
+1802,"Never, never gonna give you up",Barry White,1974
+1803,Harborlight,Windjammer,1977
+1804,Theme from Deer Hunter,Shadows,1979
+1805,Let's twist again,Chubby Checker,1962
+1806,I just don't know what to do with myself,Dusty Springfield,1964
+1807,Sajang E,Massada,1980
+1808,Jet,Wings,1974
+1809,People gotta move,Gino Vannelli,1974
+1810,The riddle,Nik Kershaw,1984
+1811,Young Americans,David Bowie,1975
+1812,City to city,Gerry Rafferty,1978
+1813,How am I supposed to live without you,Michael Bolton,1990
+1814,Marrakesh express,Crosby Stills & Nash,1969
+1815,Kiss me quick,Elvis Presley,1963
+1816,Traffic jam,Sailor,1974
+1817,Battle hymn of the republic,Andy Williams,1968
+1818,If you can't give me love,Suzi Quatro,1978
+1819,Streetlife,Crusaders,1979
+1820,Wooly bully,Sam the Sham & Pharao's,1965
+1821,Shaffy cantate,Ramses Shaffy,1965
+1822,Je t'aime...moi non plus,Jane Birkin & Serge Gainsbourg,1969
+1823,"Ruby, don't take your love to town",Kenny Rogers & First Edition,1969
+1824,Star,Earth Wind & Fire,1979
+1825,Lucky lips,Cliff Richard,1963
+1826,Mozart symphony no 40,Waldo De Los Rios,1971
+1827,Back for good,Take That,1995
+1828,I need you,America,1972
+1829,As long as you follow,Fleetwood Mac,1988
+1830,One day in your life,Michael Jackson,1981
+1831,Lovin' whiskey,Rory Block,1988
+1832,All day and all of the night,Kinks,1964
+1833,Cry,Godley & Creme,1985
+1834,Mr Bojangles,Nitty Gritty Dirt Band,1971
+1835,Dear Mrs Applebee,David Garrick,1966
+1836,Faith,George Michael,1987
+1837,How can I be sure,David Cassidy,1972
+1838,Big love,Fleetwood Mac,1987
+1839,Camouflage,Stan Ridgway,1986
+1840,It's only love,Bryan Adams & Tina Turner,1985
+1841,Happy Jack,Who,1966
+1842,De vogeltjesdans,Electronica's,1980
+1843,You're the greatest lover,Luv,1978
+1844,What's another year,Johnny Logan,1980
+1845,Lady of the dawn,Mike Batt,1979
+1846,Clair,Gilbert O'Sullivan,1972
+1847,Heartbreaker,Dionne Warwick,1981
+1848,Sunny,Boney M,1977
+1849,With a girl like you,Troggs,1966
+1850,Ik weet niet hoe,Benny Neyman,1980
+1851,Iedereen doet 't,Robert Long,1986
+1852,Come back and stay,Paul Young,1983
+1853,Holiday,Bee Gees,1967
+1854,Afternoon delight,Starland Vocal Band,1976
+1855,Xanadu,Olivia Newton-John & Electric Light Orchestra,1980
+1856,Flappie,Youp van 't Hek,1985
+1857,Delilah,Tom Jones,1968
+1858,I know him so well,Elaine Paige & Barbara Dickson,1985
+1859,Bad bad Leroy Brown,Jim Croce,1973
+1860,Running in the family,Level 42,1987
+1861,Sex and drugs and rock 'n roll,Ian Dury & The Blockheads,1977
+1862,December 1963 (Oh what a night),Four Seasons,1976
+1863,David's song,Kelly Family,1979
+1864,Longer,Dan Fogelberg,1980
+1865,Wake up little Susie,Everly Brothers,1958
+1866,L'ete indien,Joe Dassin,1975
+1867,I could easily fall in love,Cliff Richard,1965
+1868,If I can't have you,Yvonne Eilliman,1978
+1869,I shot the sheriff,Eric Clapton,1974
+1870,These boots are made for walking,Nancy Sinatra,1966
+1871,Poison arrow,ABC,1982
+1872,You to me are everything,Real Thing,1976
+1873,El condor pasa,Los Incas,1970
+1874,Hot legs,Rod Stewart,1978
+1875,Hero,Mariah Carey,1993
+1876,Say it ain't so Joe,Roger Daltrey,1977
+1877,Stay with me,Faces,1972
+1878,My world,Bee Gees,1973
+1879,Can't give you anything (but my love),Stylistics,1975
+1880,Raindrops keep falling on my head,B J Thomas,1970
+1881,I'm a gambler,Lace,1969
+1882,Don't let me be misunderstood,Nina Simone,1964
+1883,I'm gonna knock on your door,Eddie Hodges,1961
+1884,She drives me crazy,Fine Young Cannibals,1989
+1885,When you're gone,Maggie MacNeal,1975
+1886,Ring of fire,Eric Burdon & The Animals,1969
+1887,Een lied voor kinderen,Dimitri van Toren,1973
+1888,Op een mooie Pinksterdag,Leen Jongewaard & André van den Heuvel,1967
+1889,Can't take my eyes off of you,Boys Town Gang,1982
+1890,Goodbye my love,Searchers,1965
+1891,Bachelor boy,Cliff Richard,1963
+1892,Piece of the rock,Mother's Finest,1978
+1893,Ce n'est rien,Julien Clerc,1974
+1894,Blauwe ruis,Blof,2002
+1895,Powerful people,Gino Vannelli,1974
+1896,Reflections,Diana Ross & The Supremes,1967
+1897,Out of time,Chris Farlowe,1966
+1898,If you go,Barry & Eileen,1975
+1899,The greatest love of all,Whitney Houston,1986
+1900,Diep in mijn hart,Andre Hazes,1982
+1901,Fraction too much friction,Tim Finn,1984
+1902,I'll be your baby tonight,Bob Dylan,1967
+1903,Ruby is the one,Earth & Fire,1970
+1904,Flashdance…what a feeling,Irene Cara,1983
+1905,Blue moon,Marcels,1961
+1906,If you could read my mind,Gordon Lightfoot,1971
+1907,Sugar me,Lynsey de Paul,1972
+1908,All kinds of everything,Dana,1970
+1909,High noon,Frankie Laine,1952
+1910,When the rain begins to fall,Jermaine Jackson & Pia Zadora,1984
+1911,You were on my mind,Chrispian St Peters,1966
+1912,C'est la vie,Emmylou Harris,1977
+1913,Ding a dong,Teach In,1975
+1914,Knock on wood,Ami Stewart,1979
+1915,The witch queen of New Orleans,Redbone,1971
+1916,Lonely boy,Paul Anka,1959
+1917,Something,Shirley Bassey,1970
+1918,How many times,Lori Spee,1982
+1919,Deep water,Grapefruit,1969
+1920,Don't it make my brown eyes blue,Crystal Gayle,1977
+1921,Leonie,Arjan Brass,1976
+1922,A hole in my shoe,Traffic,1967
+1923,Blanket on the ground,Billy Jo Spears,1975
+1924,Gente di mare,Tozzi & Raf,1987
+1925,Carrie Anne,Hollies,1966
+1926,La mamma,Corry Brokken,1964
+1927,Opzij,Herman van Veen,1979
+1928,All the young dudes,Mott the Hoople,1972
+1929,Don't look back,Peter Tosh & Mick Jagger,1979
+1930,Only a fool,Mighty Sparrow & Byron Lee & Dragonnaires,1977
+1931,Don't know much,Linda Ronstadt & Aaron Neville,1989
+1932,Bernadine,Pat Boone,1957
+1933,Blue eyes,Elton John,1982
+1934,Dead end street,Kinks,1966
+1935,To be with you,Mr Big,1992
+1936,What's a matter baby,Ellen Foley,1979
+1937,The wanderer,Status Quo,1984
+1938,Als je huilt/Bim bam,Andre van Duin,1982
+1939,The hustle,Van McCoy,1975
+1940,That's the way (I like it),KC & The Sunshine Band,1975
+1941,Let's dance,Chris Montez,1963
+1942,Callow la vita,Raymond Froggatt,1968
+1943,Hi ho silver lining,Jeff Beck,1967
+1944,Upside down,Diana Ross,1980
+1945,Sure he's a cat,Cats,1967
+1946,The bannerman,Blue Mink,1971
+1947,Racing car,Air Bubble,1976
+1948,Jesus is just allright,Byrds,1970
+1949,Kissin' in the back row of the movies,Drifters,1974
+1950,Love & pride,King,1985
+1951,Too shy,Kajagoogoo,1983
+1952,The power of love,Huey Lewis & The News,1985
+1953,Something stupid,Frank & Nancy Sinatra,1967
+1954,Paroles,Dalida & Alain Delon,1973
+1955,Sunny girl,Hep Stars,1968
+1956,Kyrie,Mr Mister,1986
+1957,You're my world,Cilla Black,1964
+1958,My truly truly fair,Guy Mitchell,1951
+1959,Dance away,Roxy Music,1979
+1960,Doctor my eyes,Jackson Browne,1972
+1961,Cheek to cheek,Lowell George,1979
+1962,Sheila,Tommy Roe,1962
+1963,It's a heartache,Bonny Tyler,1978
+1964,Without you,Mariah Carey,1991
+1965,In het donker,Kadanz,1983
+1966,Mary in the morning,Guy Fletcher,1971
+1967,(I just) died in your arms tonight,Cutting Crew,1986
+1968,Power to all our friends,Cliff Richard,1973
+1969,Matador,Garland Jeffreys,1980
+1970,Fool,Chris Rea,1978
+1971,Chicago,Graham Nash,1971
+1972,Them heavy people,Kate Bush,1979
+1973,Put your head on my shoulder,Paul Anka,1959
+1974,Rose garden,Lynn Anderson,1971
+1975,Walk don't run,Ventures,1960
+1976,IGY,Donald Fagen,1982
+1977,Chanson d'amour,Manhattan Transfer,1976
+1978,I can't let Maggie go,Honeybus,1968
+1979,I got a name,Jim Croce,1975
+1980,Twelve-thirty,Mama's & Papa's,1967
+1981,Right here waiting,Richard Marx,1989
+1982,Whole lotta shakin' going on,Jerry Lee Lewis,1957
+1983,It must be love,Labi Siffre,1971
+1984,The most beautiful girl,Charlie Rich,1974
+1985,Sail on,Commodores,1979
+1986,Rock me Amadeus,Falco,1985
+1987,Kokomo,Beach Boys,1989
+1988,Dirty ol' man,Three Degrees,1973
+1989,Na na na,Shoes,1967
+1990,Working my way back to you,Detroit Spinners,1980
+1991,Listen to the radio,Tom Robinson,1984
+1992,Listen to what the man said,Wings,1973
+1993,It started with a kiss,Hot Chocolate,1982
+1994,Both sides now,Euson,1971
+1995,Je wordt ouder papa,Peter Koelewijn & Rockets,1977
+1996,Lowdown,Boz Scaggs,1977
+1997,Matthew and son,Cat Stevens,1967
+1998,Smoke gets in your eyes,Blue Haze,1972
+1999,Blackberry way,Move,1968
+2000,Zabadak,Dave Dee Dozy Beaky Mick & Tich,1967
